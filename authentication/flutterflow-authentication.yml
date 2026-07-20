@@ -1,0 +1,27 @@
+generated: '2026-07-19'
+method: searched
+source: https://docs.flutterflow.io/resources/projects/settings/project-apis/
+docs: https://docs.flutterflow.io/resources/projects/settings/project-apis/
+notes: >-
+  FlutterFlow has no published OpenAPI for its Project APIs, so this profile is
+  captured from the documentation rather than derived from a securityScheme. All
+  Project API endpoints require a Bearer FlutterFlow API token in the Authorization
+  header. The same token authenticates the flutterflow_cli client and the AI MCP
+  server. There is no OAuth / scope surface.
+summary:
+  types: [http]
+  http_schemes: [bearer]
+  oauth2: false
+  api_key_in: []
+schemes:
+- name: bearerAuth
+  type: http
+  scheme: bearer
+  bearer_format: FlutterFlow API token
+  in: header
+  header: Authorization
+  value_format: 'Bearer <FLUTTERFLOW_API_TOKEN>'
+  token_management:
+    cli_env: FLUTTERFLOW_API_TOKEN
+    credentials_file: ~/.flutterflow/credentials.json
+  sources: [docs]
