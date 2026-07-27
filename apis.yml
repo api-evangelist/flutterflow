@@ -1,8 +1,15 @@
 aid: flutterflow
 name: FlutterFlow
-description: 'FlutterFlow is a company surfaced as a portfolio company of crv, gv and added to the API
-  Evangelist network as a stub for enrichment. Sector: developer-tools. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'FlutterFlow is a visual, low-code development platform for building native
+  mobile, web, and desktop applications on Flutter without sacrificing app quality or
+  features. Beyond the visual builder, FlutterFlow exposes Project APIs — a REST surface
+  at api.flutterflow.io/v2 for programmatically listing projects and reading, validating,
+  and updating project YAML configuration to automate CI/CD and bulk changes. It ships
+  an official command-line client (flutterflow_cli on pub.dev) for exporting Flutter
+  code and driving FlutterFlow AI, and an official AI MCP server that lets agents such
+  as Claude Code, Gemini CLI, and Codex read and modify FlutterFlow projects using real
+  project context. Authentication across the API, CLI, and MCP server is via a Bearer
+  FlutterFlow API token.'
 url: https://raw.githubusercontent.com/api-evangelist/flutterflow/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -11,18 +18,126 @@ x-backed-by:
 - gv
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: self-serve
+  trial: false
+  try_now: false
+  public: false
+  label: Self-serve signup
+  confidence: medium
+  source:
+  - authentication
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://docs.flutterflow.io/img/social-card-docs.png
 tags:
 - Company
 - Developer Tools
-apis: []
+- Low-Code
+- No-Code
+- App Builder
+- Flutter
+- Mobile Development
+- Visual Development
+- API
+- CLI
+- MCP
+apis:
+- name: FlutterFlow Project APIs
+  description: 'REST API for programmatically managing FlutterFlow projects: list projects,
+    list and export partitioned project YAML files, validate YAML before applying, and
+    update a project by YAML. Used to automate project management and CI/CD. All endpoints
+    require a Bearer FlutterFlow API token.'
+  humanURL: https://docs.flutterflow.io/resources/projects/settings/project-apis/
+  baseURL: https://api.flutterflow.io/v2/
+  tags:
+  - Project Management
+  - YAML
+  - Automation
+  - CI/CD
+  properties:
+  - type: Documentation
+    url: https://docs.flutterflow.io/resources/projects/settings/project-apis/
+  - type: APIReference
+    url: https://docs.flutterflow.io/resources/projects/settings/project-apis/
+  - type: Authentication
+    url: authentication/flutterflow-authentication.yml
+  - type: ErrorCatalog
+    url: errors/flutterflow-problem-types.yml
+  - type: Conventions
+    url: conventions/flutterflow-conventions.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: TrustCenter
+  url: security/flutterflow-trust-center.yml
+- type: DomainSecurity
+  url: security/flutterflow-domain-security.yml
 - type: Website
   url: https://www.flutterflow.io/
+- type: DeveloperPortal
+  url: https://docs.flutterflow.io/
+- type: Documentation
+  url: https://docs.flutterflow.io/
+- type: APIReference
+  url: https://docs.flutterflow.io/resources/projects/settings/project-apis/
+- type: GettingStarted
+  url: https://docs.flutterflow.io/before-you-begin/setup-flutterflow/
+- type: Support
+  url: https://community.flutterflow.io/
+- type: Blog
+  url: https://www.flutterflow.io/blog
+- type: GitHubOrganization
+  url: https://github.com/FlutterFlow
+- type: Roadmap
+  url: https://community.flutterflow.io/roadmap
+- type: Pricing
+  url: https://www.flutterflow.io/pricing
+- type: SignUp
+  url: https://app.flutterflow.io/
+- type: TermsOfService
+  url: https://www.flutterflow.io/tos
+- type: PrivacyPolicy
+  url: https://www.flutterflow.io/privacy
+- type: StatusPage
+  url: https://status.flutterflow.io/
+- type: ChangeLog
+  url: changelog/flutterflow-changelog.yml
+- type: Compliance
+  url: https://docs.flutterflow.io/miscellaneous/security
+- type: CLI
+  url: cli/flutterflow-cli.yml
+- type: MCPServer
+  url: mcp/flutterflow-mcp.yml
+- type: Packages
+  url: packages/flutterflow-packages.yml
+- type: SDKs
+  url: packages/flutterflow-packages.yml
+- type: Components
+  url: components/flutterflow-components.yml
+- type: Authentication
+  url: authentication/flutterflow-authentication.yml
+- type: Conventions
+  url: conventions/flutterflow-conventions.yml
+- type: ErrorCatalog
+  url: errors/flutterflow-problem-types.yml
+- type: Lifecycle
+  url: lifecycle/flutterflow-lifecycle.yml
+- type: Conformance
+  url: conformance/flutterflow-conformance.yml
+- type: WellKnown
+  url: well-known/flutterflow-well-known.yml
+- type: LLMsTxt
+  url: llms/flutterflow-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

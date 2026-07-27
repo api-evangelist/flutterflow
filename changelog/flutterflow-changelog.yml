@@ -1,0 +1,37 @@
+generated: '2026-07-19'
+method: searched
+source: https://pub.dev/packages/flutterflow_cli/changelog
+scheme: semver
+subject: flutterflow_cli (official CLI + AI MCP server)
+current_version: 0.0.38
+notes: >-
+  FlutterFlow's product surface ships continuously via the visual builder; the
+  most stable dated changelog is the flutterflow_cli package changelog on pub.dev,
+  which tracks the CLI and AI MCP server. Recent window only.
+entries:
+- version: 0.0.38
+  breaking: false
+  highlights:
+  - Running `flutterflow ai` with no arguments launches an interactive onboarding
+    wizard (project picker + API key management).
+- version: 0.0.37
+  breaking: false
+  highlights:
+  - Live debugging sessions — agents can attach to the FlutterFlow Desktop app for
+    local inspection and runs.
+- version: 0.0.36
+  breaking: false
+  highlights:
+  - API key persistence to ~/.flutterflow/credentials.json; new logout command.
+- version: 0.0.35
+  breaking: false
+  highlights:
+  - Bug fixes; auto-init support for Antigravity.
+- version: 0.0.34
+  breaking: false
+  highlights:
+  - Windows support for `flutterflow ai`.
+- version: 0.0.33
+  breaking: false
+  highlights:
+  - Relicensed to Business Source License 1.1 (converts to Apache 2.0 on 2055-04-22).

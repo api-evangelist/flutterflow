@@ -1,0 +1,31 @@
+generated: '2026-07-19'
+method: searched
+source: https://docs.flutterflow.io/resources/projects/settings/project-apis/
+format: http-status
+envelope: >-
+  JSON body. Validation errors (400) return detailed feedback including specific
+  line/column locations and descriptive messages about YAML schema violations.
+  FlutterFlow does not publish RFC 9457 application/problem+json for the Project APIs.
+notes: >-
+  Derived from the documented HTTP status codes for the FlutterFlow Project APIs.
+  No OpenAPI is published, so these are captured from the docs error reference
+  rather than from spec responses.
+problems:
+- status: 400
+  title: Bad Request
+  meaning: Invalid JSON in the request or malformed YAML in the project payload.
+  remediation: >-
+    Validate YAML with /validateProjectYaml before /updateProjectByYaml; fix the
+    reported line/column schema violations.
+- status: 403
+  title: Forbidden
+  meaning: Insufficient permissions for the project or invalid/missing API token.
+  remediation: Confirm the Bearer FlutterFlow API token and that it has access to the project.
+- status: 404
+  title: Not Found
+  meaning: The referenced project or user does not exist.
+  remediation: Verify the project id (list with /l/listProjects).
+- status: 500
+  title: Internal Server Error
+  meaning: An unexpected server-side error occurred.
+  remediation: Retry with backoff; contact support@flutterflow.io if it persists.

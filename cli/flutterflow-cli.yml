@@ -1,0 +1,60 @@
+generated: '2026-07-19'
+method: searched
+source: https://docs.flutterflow.io/flutterflow-cli/
+name: FlutterFlow CLI
+official: true
+package: flutterflow_cli
+package_url: https://pub.dev/packages/flutterflow_cli
+repository: https://github.com/FlutterFlow/flutterflow-cli
+license: Business Source License 1.1 (converts to Apache 2.0 on 2055-04-22)
+install:
+- method: pub
+  command: dart pub global activate flutterflow_cli
+authentication:
+  type: bearer
+  token: FlutterFlow API token
+  env: FLUTTERFLOW_API_TOKEN
+  credentials_file: ~/.flutterflow/credentials.json
+  notes: >-
+    Pass --token or set FLUTTERFLOW_API_TOKEN. `flutterflow ai init` masks input
+    and can persist the key to ~/.flutterflow/credentials.json; `logout` clears it.
+commands:
+- name: export-code
+  summary: Export Flutter source code from a FlutterFlow project.
+  example: flutterflow export-code --project <project-id> --dest <output-folder>
+  flags:
+  - --project (or FLUTTERFLOW_PROJECT env)
+  - --dest
+  - --[no-]include-assets
+  - --[no-]fix
+  - --[no-]parent-folder
+  - --[no-]as-module
+  - --[no-]as-debug
+  - --[no-]include-export-manifest
+- name: ai
+  summary: >-
+    Scaffold and drive an agent workspace for FlutterFlow AI; with no arguments
+    launches an interactive onboarding wizard (project picker + API key setup).
+  subcommands:
+  - name: init
+    summary: Scaffold a workspace (and MCP config for Claude Code / Gemini CLI / Codex).
+    example: flutterflow ai init my-app
+  - name: run
+    summary: Apply generated changes to the FlutterFlow project.
+  - name: validate
+    summary: Validate project changes before applying.
+  - name: inspect
+    summary: Inspect project resources / structure.
+  - name: doctor
+    summary: Diagnose the local workspace and toolchain.
+groups:
+  build: [run, validate]
+  explore: [inspect, resources, search, status]
+  plan_audit: [plan, trace, history]
+  context: [context-check, refresh-context, precache]
+  maintenance: [upgrade, refresh-workspace, doctor, logout]
+key_flows:
+- Export Flutter code for a project into a local folder for CI/CD or self-hosting.
+- Initialize an AI/MCP workspace so an agent can read and modify a project.
+- Push a project's Firebase configuration (requires npm + firebase-tools).
+mcp: mcp/flutterflow-mcp.yml

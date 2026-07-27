@@ -1,0 +1,76 @@
+generated: '2026-07-19'
+method: searched
+status: published
+source: https://docs.flutterflow.io/ff-concepts/advanced/flutterflow-cli/flutterflow-mcp
+official: true
+server:
+  name: flutterflow-ai
+  description: >-
+    Official FlutterFlow AI MCP server. Exposes FlutterFlow's Project APIs to an
+    MCP-compatible agent (Claude Code, Gemini CLI, Codex) so it can read and modify
+    a FlutterFlow project using real project context — plan changes, apply them,
+    and report back into the visual builder.
+  transport: stdio
+  package: flutterflow_cli
+  init: flutterflow ai init
+  agent_configs:
+  - agent: Claude Code
+    file: .mcp.json
+  - agent: Gemini CLI
+    file: .gemini/settings.json
+  - agent: Codex
+    file: .codex/config.toml
+authentication:
+  type: bearer
+  token: FlutterFlow API key
+  notes: A FlutterFlow API key is required during `flutterflow ai init`; input is masked.
+capabilities:
+- Live Sessions — apply changes to a running FlutterFlow app and display updates on
+  the connected device (update screens, fix issues, inspect logs, trigger hot
+  reload/restart, capture screenshots).
+tools:
+- name: run
+  group: build
+  description: Apply generated changes / build the project.
+- name: validate
+  group: build
+  description: Validate project changes before applying.
+- name: inspect
+  group: explore
+  description: Inspect project structure and resources.
+- name: resources
+  group: explore
+  description: List available project resources.
+- name: search
+  group: explore
+  description: Search within the project.
+- name: status
+  group: explore
+  description: Report project / session status.
+- name: plan
+  group: plan-audit
+  description: Plan a set of changes before applying.
+- name: trace
+  group: plan-audit
+  description: Trace how a change propagates.
+- name: history
+  group: plan-audit
+  description: Review change history.
+- name: context-check
+  group: context
+  description: Check that project context is current.
+- name: refresh-context
+  group: context
+  description: Refresh cached project context.
+- name: precache
+  group: context
+  description: Pre-cache project context for faster runs.
+- name: upgrade
+  group: maintenance
+  description: Upgrade the workspace/toolchain.
+- name: refresh-workspace
+  group: maintenance
+  description: Refresh the local workspace.
+- name: doctor
+  group: maintenance
+  description: Diagnose the workspace and toolchain.

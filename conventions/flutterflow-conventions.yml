@@ -1,0 +1,49 @@
+generated: '2026-07-19'
+method: searched
+source: https://docs.flutterflow.io/resources/projects/settings/project-apis/
+notes: >-
+  Cross-cutting request/response semantics for the FlutterFlow Project APIs,
+  captured from the docs (no OpenAPI published). Cross-links: authentication/,
+  errors/, lifecycle/.
+authentication:
+  style: bearer
+  header: Authorization
+  detail: authentication/flutterflow-authentication.yml
+versioning:
+  scheme: uri-path
+  current: v2
+  staging: v2-staging
+  example: https://api.flutterflow.io/v2/
+  detail: lifecycle/flutterflow-lifecycle.yml
+media_type:
+  request: application/json
+  response: application/json
+  note: >-
+    Project configuration is exchanged as YAML documents inside the JSON API
+    (list/export/validate/update project YAML).
+idempotency:
+  supported: false
+  note: >-
+    No idempotency-key header is documented. Update is a YAML replace/apply flow;
+    validate before update rather than relying on idempotency keys.
+pagination:
+  supported: false
+  note: Project and file listings return full sets; no cursor/offset paging documented.
+rate_limiting:
+  documented: true
+  quantified: false
+  guidance: >-
+    Docs advise implementing appropriate delays between calls to avoid being
+    rate-limited when making many requests; no numeric threshold is published.
+error_envelope:
+  detail: errors/flutterflow-problem-types.yml
+  note: >-
+    HTTP status codes (400/403/404/500); 400 validation errors include line/column
+    and descriptive schema-violation messages.
+environments:
+- name: production
+  base_url: https://api.flutterflow.io/v2/
+- name: staging
+  base_url: https://api.flutterflow.io/v2-staging/
+- name: enterprise-regional
+  note: Regional variants (India, APAC, US Central, Europe) for Enterprise customers.

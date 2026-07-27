@@ -1,0 +1,674 @@
+# FlutterFlow Documentation
+
+> Learn how to build mobile, web and desktop apps incredibly fast — without sacrificing on app quality or features
+
+
+## search
+
+- [Search the documentation](/search.md)
+
+## tags
+
+- [Tags](/tags.md)
+- [One doc tagged with "Accessibility"](/tags/accessibility.md)
+- [6 docs tagged with "Action"](/tags/action.md)
+- [One doc tagged with "Action Blocks"](/tags/action-blocks.md)
+- [2 docs tagged with "Action Flow Editor"](/tags/action-flow-editor.md)
+- [13 docs tagged with "Actions"](/tags/actions.md)
+- [One doc tagged with "AdBanner"](/tags/ad-banner.md)
+- [One doc tagged with "AdMob"](/tags/ad-mob.md)
+- [One doc tagged with "Add Item"](/tags/add-item.md)
+- [7 docs tagged with "AI"](/tags/ai.md)
+- [4 docs tagged with "Alerts & Notifications"](/tags/alerts-notifications.md)
+- [2 docs tagged with "Algolia"](/tags/algolia.md)
+- [One doc tagged with "Android"](/tags/android.md)
+- [4 docs tagged with "Animations"](/tags/animations.md)
+- [One doc tagged with "Anonymous Login"](/tags/anonymous-login.md)
+- [One doc tagged with "APIs"](/tags/ap-is.md)
+- [2 docs tagged with "API"](/tags/api.md)
+- [One doc tagged with "API Call"](/tags/api-call.md)
+- [2 docs tagged with "API Keys"](/tags/api-keys.md)
+- [One doc tagged with "App Builder"](/tags/app-builder.md)
+- [One doc tagged with "App Check"](/tags/app-check.md)
+- [2 docs tagged with "App Events"](/tags/app-events.md)
+- [One doc tagged with "App State"](/tags/app-state.md)
+- [3 docs tagged with "Apple App Store"](/tags/apple-app-store.md)
+- [One doc tagged with "Apple Authentication"](/tags/apple-authentication.md)
+- [One doc tagged with "Apple Login"](/tags/apple-login.md)
+- [One doc tagged with "Assets"](/tags/assets.md)
+- [2 docs tagged with "Auth Actions"](/tags/auth-actions.md)
+- [18 docs tagged with "Authentication"](/tags/authentication.md)
+- [2 docs tagged with "Automated Tests"](/tags/automated-tests.md)
+- [One doc tagged with "Backend"](/tags/backend.md)
+- [14 docs tagged with "Backend Logic"](/tags/backend-logic.md)
+- [10 docs tagged with "Backend Query"](/tags/backend-query.md)
+- [17 docs tagged with "Base Elements"](/tags/base-elements.md)
+- [One doc tagged with "Best Practices"](/tags/best-practices.md)
+- [One doc tagged with "Branching"](/tags/branching.md)
+- [One doc tagged with "Building Layout"](/tags/building-layout.md)
+- [One doc tagged with "Canvas"](/tags/canvas.md)
+- [4 docs tagged with "Chat"](/tags/chat.md)
+- [One doc tagged with "Child Widget"](/tags/child-widget.md)
+- [2 docs tagged with "Clear Delete Data"](/tags/clear-delete-data.md)
+- [3 docs tagged with "CLI"](/tags/cli.md)
+- [6 docs tagged with "Cloud Firestore"](/tags/cloud-firestore.md)
+- [One doc tagged with "Cloud Functions"](/tags/cloud-functions.md)
+- [2 docs tagged with "Cloud Storage"](/tags/cloud-storage.md)
+- [One doc tagged with "Code File"](/tags/code-file.md)
+- [5 docs tagged with "Collaboration"](/tags/collaboration.md)
+- [One doc tagged with "Collections"](/tags/collections.md)
+- [9 docs tagged with "Components"](/tags/components.md)
+- [24 docs tagged with "Concepts"](/tags/concepts.md)
+- [One doc tagged with "ConditionalBuilder"](/tags/conditional-builder.md)
+- [One doc tagged with "Conditional Logic"](/tags/conditional-logic.md)
+- [One doc tagged with "Configuration Files"](/tags/configuration-files.md)
+- [One doc tagged with "Constants"](/tags/constants.md)
+- [One doc tagged with "Content Manager"](/tags/content-manager.md)
+- [16 docs tagged with "Control Flow"](/tags/control-flow.md)
+- [One doc tagged with "Conversational UI"](/tags/conversational-ui.md)
+- [One doc tagged with "Crashlytics"](/tags/crashlytics.md)
+- [One doc tagged with "Creator Hub"](/tags/creator-hub.md)
+- [7 docs tagged with "Creators Hub"](/tags/creators-hub.md)
+- [2 docs tagged with "Custom Actions"](/tags/custom-actions.md)
+- [3 docs tagged with "Custom Authentication"](/tags/custom-authentication.md)
+- [9 docs tagged with "Custom Code"](/tags/custom-code.md)
+- [One doc tagged with "Custom Data Types"](/tags/custom-data-types.md)
+- [One doc tagged with "Custom Functions"](/tags/custom-functions.md)
+- [One doc tagged with "Custom Widgets"](/tags/custom-widgets.md)
+- [2 docs tagged with "Customizations"](/tags/customizations.md)
+- [7 docs tagged with "Data Representation"](/tags/data-representation.md)
+- [One doc tagged with "Data Types"](/tags/data-types.md)
+- [9 docs tagged with "Database"](/tags/database.md)
+- [One doc tagged with "Deep Linking"](/tags/deep-linking.md)
+- [6 docs tagged with "Deployment"](/tags/deployment.md)
+- [12 docs tagged with "Design"](/tags/design.md)
+- [One doc tagged with "Design System"](/tags/design-system.md)
+- [One doc tagged with "designer"](/tags/designer.md)
+- [2 docs tagged with "Dev Environments"](/tags/dev-environments.md)
+- [One doc tagged with "Document"](/tags/document.md)
+- [2 docs tagged with "Download Data"](/tags/download-data.md)
+- [One doc tagged with "Dropdown"](/tags/dropdown.md)
+- [One doc tagged with "Dynamic Linking"](/tags/dynamic-linking.md)
+- [One doc tagged with "ElevenLabs"](/tags/eleven-labs.md)
+- [One doc tagged with "Email Authentication"](/tags/email-authentication.md)
+- [One doc tagged with "Email Login"](/tags/email-login.md)
+- [2 docs tagged with "Enterprise"](/tags/enterprise.md)
+- [One doc tagged with "Enums"](/tags/enums.md)
+- [One doc tagged with "Error Handling"](/tags/error-handling.md)
+- [2 docs tagged with "Export"](/tags/export.md)
+- [One doc tagged with "Facebook Login"](/tags/facebook-login.md)
+- [16 docs tagged with "Firebase"](/tags/firebase.md)
+- [2 docs tagged with "Firebase Storage"](/tags/firebase-storage.md)
+- [6 docs tagged with "Firestore"](/tags/firestore.md)
+- [One doc tagged with "Firestore Search"](/tags/firestore-search.md)
+- [One doc tagged with "Flex"](/tags/flex.md)
+- [One doc tagged with "Flutter"](/tags/flutter.md)
+- [52 docs tagged with "FlutterFlow"](/tags/flutter-flow.md)
+- [11 docs tagged with "FlutterFlow Designer"](/tags/flutter-flow-designer.md)
+- [One doc tagged with "flutterflow"](/tags/flutterflow.md)
+- [7 docs tagged with "Form"](/tags/form.md)
+- [10 docs tagged with "Form Elements"](/tags/form-elements.md)
+- [One doc tagged with "Forms"](/tags/forms.md)
+- [2 docs tagged with "Functions"](/tags/functions.md)
+- [2 docs tagged with "Gemini"](/tags/gemini.md)
+- [2 docs tagged with "Generated Code"](/tags/generated-code.md)
+- [One doc tagged with "Getting Started"](/tags/getting-started.md)
+- [2 docs tagged with "GitHub"](/tags/git-hub.md)
+- [One doc tagged with "GitHub Login"](/tags/git-hub-login.md)
+- [One doc tagged with "Global Properties"](/tags/global-properties.md)
+- [One doc tagged with "Google Analytics"](/tags/google-analytics.md)
+- [One doc tagged with "Google Authentication"](/tags/google-authentication.md)
+- [One doc tagged with "Google Cloud"](/tags/google-cloud.md)
+- [4 docs tagged with "Google Maps"](/tags/google-maps.md)
+- [One doc tagged with "Google OAuth"](/tags/google-o-auth.md)
+- [3 docs tagged with "Google Play Store"](/tags/google-play-store.md)
+- [One doc tagged with "Guidelines"](/tags/guidelines.md)
+- [One doc tagged with "Hero Animations"](/tags/hero-animations.md)
+- [One doc tagged with "Hot Reload"](/tags/hot-reload.md)
+- [One doc tagged with "iOS"](/tags/i-os.md)
+- [One doc tagged with "Implicit Animations"](/tags/implicit-animations.md)
+- [2 docs tagged with "Import"](/tags/import.md)
+- [2 docs tagged with "Initial Setup"](/tags/initial-setup.md)
+- [19 docs tagged with "Integration"](/tags/integration.md)
+- [One doc tagged with "Integrations"](/tags/integrations.md)
+- [One doc tagged with "Internationalization"](/tags/internationalization.md)
+- [One doc tagged with "Interstitial Ad"](/tags/interstitial-ad.md)
+- [One doc tagged with "Issue"](/tags/issue.md)
+- [One doc tagged with "Iterate"](/tags/iterate.md)
+- [One doc tagged with "JWT"](/tags/jwt.md)
+- [One doc tagged with "Launch URL"](/tags/launch-url.md)
+- [12 docs tagged with "Layout Elements"](/tags/layout-elements.md)
+- [One doc tagged with "Libraries"](/tags/libraries.md)
+- [One doc tagged with "Library"](/tags/library.md)
+- [One doc tagged with "Local Run"](/tags/local-run.md)
+- [One doc tagged with "Local Search"](/tags/local-search.md)
+- [One doc tagged with "Local Storage"](/tags/local-storage.md)
+- [One doc tagged with "Localization"](/tags/localization.md)
+- [One doc tagged with "Loops"](/tags/loops.md)
+- [One doc tagged with "Lottie Animation"](/tags/lottie-animation.md)
+- [One doc tagged with "Maps"](/tags/maps.md)
+- [11 docs tagged with "MarketPlace"](/tags/market-place.md)
+- [One doc tagged with "Marketplace"](/tags/marketplace.md)
+- [One doc tagged with "MCP"](/tags/mcp.md)
+- [5 docs tagged with "Media Files"](/tags/media-files.md)
+- [One doc tagged with "Multiple Languages"](/tags/multiple-languages.md)
+- [One doc tagged with "MuxBroadcast"](/tags/mux-broadcast.md)
+- [One doc tagged with "My Teams"](/tags/my-teams.md)
+- [9 docs tagged with "Navigation"](/tags/navigation.md)
+- [2 docs tagged with "Notifications"](/tags/notifications.md)
+- [One doc tagged with "OpenAI"](/tags/open-ai.md)
+- [One doc tagged with "Organization"](/tags/organization.md)
+- [One doc tagged with "Page Navigation"](/tags/page-navigation.md)
+- [One doc tagged with "Page Transition Animations"](/tags/page-transition-animations.md)
+- [One doc tagged with "PageView"](/tags/page-view.md)
+- [One doc tagged with "Passing Data"](/tags/passing-data.md)
+- [4 docs tagged with "Payments"](/tags/payments.md)
+- [One doc tagged with "Performance Monitoring"](/tags/performance-monitoring.md)
+- [One doc tagged with "Periodic Action"](/tags/periodic-action.md)
+- [One doc tagged with "Permissions"](/tags/permissions.md)
+- [One doc tagged with "Phone Login"](/tags/phone-login.md)
+- [One doc tagged with "PinCode"](/tags/pin-code.md)
+- [One doc tagged with "Place Picker"](/tags/place-picker.md)
+- [One doc tagged with "PowerPoint"](/tags/power-point.md)
+- [One doc tagged with "Pre-checks"](/tags/pre-checks.md)
+- [One doc tagged with "Presentation"](/tags/presentation.md)
+- [One doc tagged with "Project"](/tags/project.md)
+- [6 docs tagged with "Project Management"](/tags/project-management.md)
+- [4 docs tagged with "Projects"](/tags/projects.md)
+- [One doc tagged with "Prompting"](/tags/prompting.md)
+- [One doc tagged with "Publishing"](/tags/publishing.md)
+- [One doc tagged with "Purchase Item"](/tags/purchase-item.md)
+- [One doc tagged with "Query"](/tags/query.md)
+- [One doc tagged with "Query Collection"](/tags/query-collection.md)
+- [2 docs tagged with "Quickstart"](/tags/quickstart.md)
+- [One doc tagged with "RadioButton"](/tags/radio-button.md)
+- [One doc tagged with "RatingBar"](/tags/rating-bar.md)
+- [One doc tagged with "Razorpay"](/tags/razorpay.md)
+- [One doc tagged with "Real-Time Database"](/tags/real-time-database.md)
+- [One doc tagged with "Refactor"](/tags/refactor.md)
+- [One doc tagged with "Reference"](/tags/reference.md)
+- [One doc tagged with "Refresh"](/tags/refresh.md)
+- [One doc tagged with "Refund Policy"](/tags/refund-policy.md)
+- [One doc tagged with "Remote Config"](/tags/remote-config.md)
+- [One doc tagged with "Resource Hierarchy"](/tags/resource-hierarchy.md)
+- [One doc tagged with "Responsive Layout"](/tags/responsive-layout.md)
+- [One doc tagged with "RevenueCat"](/tags/revenue-cat.md)
+- [One doc tagged with "Review Dispute"](/tags/review-dispute.md)
+- [One doc tagged with "Rive Animation"](/tags/rive-animation.md)
+- [One doc tagged with "Rules"](/tags/rules.md)
+- [One doc tagged with "Run"](/tags/run.md)
+- [One doc tagged with "Search"](/tags/search.md)
+- [2 docs tagged with "Security"](/tags/security.md)
+- [One doc tagged with "Serverless"](/tags/serverless.md)
+- [3 docs tagged with "Setup"](/tags/setup.md)
+- [One doc tagged with "Share Action"](/tags/share-action.md)
+- [One doc tagged with "Simple Search"](/tags/simple-search.md)
+- [One doc tagged with "Slider"](/tags/slider.md)
+- [One doc tagged with "Slides"](/tags/slides.md)
+- [One doc tagged with "SOAP APIs"](/tags/soap-ap-is.md)
+- [One doc tagged with "Special Page Navigations"](/tags/special-page-navigations.md)
+- [2 docs tagged with "SQLite"](/tags/sq-lite.md)
+- [2 docs tagged with "State Management"](/tags/state-management.md)
+- [One doc tagged with "Storage Rules"](/tags/storage-rules.md)
+- [One doc tagged with "Storyboard"](/tags/storyboard.md)
+- [One doc tagged with "Streaming APIs"](/tags/streaming-ap-is.md)
+- [One doc tagged with "Stripe"](/tags/stripe.md)
+- [One doc tagged with "Style Guide"](/tags/style-guide.md)
+- [One doc tagged with "Subcollections"](/tags/subcollections.md)
+- [One doc tagged with "Submit Feedback"](/tags/submit-feedback.md)
+- [8 docs tagged with "Supabase"](/tags/supabase.md)
+- [One doc tagged with "TabBar"](/tags/tab-bar.md)
+- [6 docs tagged with "Testing"](/tags/testing.md)
+- [One doc tagged with "TextField"](/tags/text-field.md)
+- [3 docs tagged with "Time-Based Logic"](/tags/time-based-logic.md)
+- [One doc tagged with "Timer Widget"](/tags/timer-widget.md)
+- [One doc tagged with "Tokens"](/tags/tokens.md)
+- [One doc tagged with "Toolbar"](/tags/toolbar.md)
+- [One doc tagged with "Tools"](/tags/tools.md)
+- [One doc tagged with "Triggers"](/tags/triggers.md)
+- [3 docs tagged with "Troubleshooting"](/tags/troubleshooting.md)
+- [9 docs tagged with "UI"](/tags/ui.md)
+- [One doc tagged with "UI/UX"](/tags/ui-ux.md)
+- [2 docs tagged with "Upload Data"](/tags/upload-data.md)
+- [One doc tagged with "User Navigation"](/tags/user-navigation.md)
+- [One doc tagged with "Validation"](/tags/validation.md)
+- [2 docs tagged with "Variables"](/tags/variables.md)
+- [2 docs tagged with "Versioning"](/tags/versioning.md)
+- [One doc tagged with "Wait Action"](/tags/wait-action.md)
+- [One doc tagged with "Web Publishing"](/tags/web-publishing.md)
+- [One doc tagged with "WebView"](/tags/web-view.md)
+- [10 docs tagged with "Widget"](/tags/widget.md)
+- [One doc tagged with "Widget Animations"](/tags/widget-animations.md)
+- [One doc tagged with "Widget Palette"](/tags/widget-palette.md)
+- [One doc tagged with "Widget Tree"](/tags/widget-tree.md)
+- [8 docs tagged with "Widgets"](/tags/widgets.md)
+- [One doc tagged with "Workspace"](/tags/workspace.md)
+- [One doc tagged with "Wrap"](/tags/wrap.md)
+
+## accounts-billing
+
+- [Account Management](/accounts-billing/account-management.md): This section contains information on changing your password, verifying your email, and deleting your account.
+- [Manage Custom Domains](/accounts-billing/manage-custom-domains.md): All paid plans include one free custom domain, with the option to purchase more if needed.
+- [Payments & Billing](/accounts-billing/payments-billing.md): This section contains information on the payment methods we accept and how to change your payment method.
+- [Plan Comparison](/accounts-billing/plan-comparison.md): Compare FlutterFlow plans and features to find the right plan for your needs
+- [Plans & Pricing](/accounts-billing/plan-pricing.md): For our most up-to-date information, please visit FlutterFlow pricing.
+- [Privacy And Terms Of Service](/accounts-billing/privacy-terms-of-service.md): How do I request the deletion of my personal data?
+- [Referral Program](/accounts-billing/referral-program.md): With the retirement of the Pro plan, the existing referral program has been discontinued. Any active referral discounts will end at your next renewal. However, referral credits you’ve already earned will remain in your account and can be redeemed for free months on the new Growth plan.
+- [Refunds](/accounts-billing/subscriptions/refunds.md): If you're not happy with your FlutterFlow subscription, you can cancel at any time.
+- [Subscriptions](/accounts-billing/subscriptions/subscriptions.md): This section provides information on free trials, plan changes, and other subscription-related questions.
+
+## before-you-begin
+
+- [App Development](/before-you-begin/app-architecture.md): Before you jump in and start using FlutterFlow, it's helpful to have an idea of how app development works more broadly.
+- [Create an account](/before-you-begin/setup-flutterflow.md): Ensure you meet system requirements and grasp technical concepts for smooth building in FlutterFlow.
+
+## best-practices
+
+- [Best Practices: Secure API Keys](/best-practices/secure-api-keys.md): Learn best practices for securing API keys in your FlutterFlow app, including key restrictions, geographical restrictions, IP address binding, and service-specific limitations.
+
+## collaboration
+
+- [Branching](/collaboration/branching.md): Learn how branching in FlutterFlow allows you to add new features without disrupting your current progress. Understand the workflow of creating and merging branches, resolving conflicts, and the difference between merging and rebasing, with practical examples and tips.
+- [Saving and Versioning](/collaboration/saving-versioning.md): Learn about versioning in your FlutterFlow.
+
+## concepts
+
+- [Accessibility](/concepts/accessibility.md): Learn how to make your app accessible to everyone.
+- [Integrating Native SDKs Using Method Channels](/concepts/advanced/method-channels.md): Learn how to integrate third-party native SDKs into your FlutterFlow project using Method Channels. This guide walks through setting up channels, writing native code, and connecting it back to FlutterFlow.
+- [Alert Dialog](/concepts/alerts/alert-dialog.md): The action allows you to alert the user of important situations that require acknowledgment in the form of a pop-up or custom-designed dialog. With this feature, you can choose to display a pre-built pop-up or create a custom design that suits your specific requirements.
+- [Dismiss Custom Dialog](/concepts/alerts/dismiss-custom-dialog.md): With this action, you can easily close the custom dialog, providing a convenient way for users to dismiss it. This functionality is handy when you want to give users the option to close the dialog from any widget within it, like a close button.
+- [Haptic Feedback](/concepts/alerts/haptic-feedback.md): Using this action, you can vibrate the user's device. Typically this is used to draw users' attention to the action they have performed. For example, vibrating the user's device on setting the alarm.
+- [Animations](/concepts/animations.md): Learn the basics of animations in FlutterFlow.
+- [Hero Animation](/concepts/animations/hero-animations.md): Learn how to add Hero Animations in your FlutterFlow app.
+- [Implicit Animations](/concepts/animations/implicit.md): Learn how to add implicit animations in FlutterFlow.
+- [Lottie Animation](/concepts/animations/lottie-animation.md): Learn how to add Lottie animation in your FlutterFlow app.
+- [Page Transition Animations](/concepts/animations/page-transition.md): Learn how to add page transition animations in your FlutterFlow app.
+- [Rive Animation](/concepts/animations/rive-animation.md): Learn how to add Rive animation in your FlutterFlow app.
+- [Shaders](/concepts/animations/shaders.md): Learn how to add visual effects using Shaders in your FlutterFlow app.
+- [Widget Animations](/concepts/animations/widget-animations.md): Learn how to add widget animations in FlutterFlow.
+- [App Events Integrations](/concepts/app-event-integration.md): Feed local app events into GenUI so the conversation can react to live app state and time-sensitive signals.
+- [App Events](/concepts/app-events.md): Learn how to use App Events in FlutterFlow.
+- [Component Catalog](/concepts/component-catalog.md): Configure the FlutterFlow components that GenUI is allowed to render inside the chat surface.
+- [Custom Code](/concepts/custom-code.md): Learn how to write and integrate custom code in your FlutterFlow app to add custom functionalities.
+- [Cloud Functions](/concepts/custom-code/cloud-functions.md): Learn how to use Cloud Functions in your FlutterFlow app for serverless backend functionality.
+- [Code File](/concepts/custom-code/code-file.md): Learn how to create and use custom classes and enums in FlutterFlow.
+- [Common Code Examples](/concepts/custom-code/common-examples.md): Learn about the common custom code examples and use it directly in your project.
+- [Configuration Files](/concepts/custom-code/configuration-files.md): Learn how to modify platform-specific files for Android and iOS to extend your app's capabilities.
+- [Custom Actions](/concepts/custom-code/custom-actions.md): Learn how to create and use custom actions in your FlutterFlow app to enhance functionality.
+- [Custom Functions](/concepts/custom-code/custom-functions.md): Learn how to create and use custom functions in your FlutterFlow app to add custom functionalities.
+- [Custom Widgets](/concepts/custom-code/custom-widgets.md): Learn how to create and use custom widgets in your FlutterFlow app to enhance its user interface.
+- [FlutterFlow Visual Studio Extension](/concepts/custom-code/vscode-extension.md): Learn how to leverage the Visual Studio Code Extension to write custom code.
+- [Design System](/concepts/design-system.md): Discover how to create a consistent UI/UX across your app with a design system in FlutterFlow.
+- [File Handling](/concepts/file-handling.md): Learn how to handle media files in FlutterFlow.
+- [Clear or Delete Media](/concepts/file-handling/clear-delete-media.md): Learn how to add clear and delete file actions into your FlutterFlow app.
+- [Displaying Media](/concepts/file-handling/displaying-media.md): Learn how to display media in FlutterFlow.
+- [Download File](/concepts/file-handling/download-file.md): Learn how to add download file action into your FlutterFlow app.
+- [Uploading Files](/concepts/file-handling/uploading-files.md): Learn how to upload media in FlutterFlow.
+- [GenUI Chat](/concepts/genui-chat.md): Add a conversational AI surface to your FlutterFlow app that can render catalog components, call action blocks as tools, and react to local app events.
+- [Building Layout](/concepts/layouts.md): Learn how to build layout in your FlutterFlow app.
+- [ConditionalBuilder](/concepts/layouts/conditional-builder.md): Learn how to display different widgets based on certain conditions in your FlutterFlow app.
+- [Flex](/concepts/layouts/flex.md): Learn how to add the Flex widget in your FlutterFlow app.
+- [Responsive Layout](/concepts/layouts/responsive.md): Learn how to create responsive layout in your FlutterFlow app.
+- [Wrap](/concepts/layouts/wrap.md): Learn how to add the Wrap widget in your FlutterFlow app.
+- [Localization](/concepts/localization.md): Learn how to make your app work for different languages.
+- [Bottom Sheet](/concepts/navigation/bottom-sheet.md): A Bottom Sheet is an alternative to a menu or a dialog. It opens from bottom to top and can be dismissed by swiping it from top to bottom. When it opens, it prevents the user from interacting with the rest of the app.
+- [Deep & Dynamic Linking](/concepts/navigation/deep-dynamic-linking.md): Learn how to implement deep and dynamic linking in your FlutterFlow app.
+- [Generate Current Page Link](/concepts/navigation/generate-current-page-link.md): Learn how to generate the current page link in your FlutterFlow app.
+- [Launch URL [Action]](/concepts/navigation/launch-url.md): Learn how to use the Launch URL Action in FlutterFlow to open URLs with supporting apps.
+- [Overview](/concepts/navigation/overview.md): Learn how to add navigation in FlutterFlow.
+- [Page Navigation](/concepts/navigation/page-navigation.md): Learn how to navigate between pages in FlutterFlow.
+- [PageView](/concepts/navigation/pageview.md): Learn how to use the PageView widget for creating swipeable pages, perfect for creating onboarding screens or multi-step forms.
+- [Passing Data between Pages](/concepts/navigation/passing-data.md): Learn how to pass data between pages in FlutterFlow.
+- [Share [Action]](/concepts/navigation/share-action.md): Learn how to use the Share Action in your FlutterFlow app to share content.
+- [Overview](/concepts/navigation/special-page-navigations.md): Learn how to add Special Page Navigations in FlutterFlow.
+- [TabBar](/concepts/navigation/tabbar.md): Learn how to use the TabBar widget in FlutterFlow to create a horizontal row of tabs for navigating different content views in your app.
+- [WebView](/concepts/navigation/webview.md): Learn how to use the WebView widget in FlutterFlow to display website content directly within your app.
+- [Notifications](/concepts/notifications.md): Learn how to add notifications in FlutterFlow.
+- [OneSignal](/concepts/notifications/one-signal.md): Integrating OneSignal lets you send emails and SMS (text messages) to your users. This can help you
+- [Push Notifications](/concepts/notifications/push-notifications.md): Push Notifications let you deliver time-sensitive, real-time messages to users even when the app isn’t active. These notifications rely on Firebase Cloud Messaging (FCM) behind the scenes, which routes messages to both Android and iOS devices. When integrated correctly, you can use push notifications to:
+- [State Management](/concepts/state-management.md): An overview of state management & state variables in FlutterFlow.
+- [Widget State](/concepts/state-management/widget-state.md): Widget state refers to the data or information that a widget holds, which can change over time and affect the widget's appearance or behavior. In FlutterFlow, the state is particularly important for form widgets, such as text fields, checkboxes, and radio buttons, as it allows these widgets to respond to user interactions.
+- [Tools Configuration](/concepts/tools.md): Expose Action Blocks to GenUI so the model can fetch data, run workflows, and use real results in its responses.
+
+## deployment
+
+- [Apple App Store Deployment](/deployment/apple-app-store-deployment.md): Learn how to seamlessly deploy your apps to the Apple App Store using FlutterFlow.
+- [Deploy for Development Environments](/deployment/deploy-for-environments.md): Learn how to deploy your apps for development environments.
+- [Deploy from GitHub](/deployment/deploy-from-github.md): Learn how to deploy your apps directly from GitHub branch.
+- [Google Play Store Deployment](/deployment/google-playstore-deployment.md): Learn how to seamlessly deploy your apps to the Google Play Store using FlutterFlow.
+- [Pre-checks Before Publishing](/deployment/pre-checks-before-publishing.md): Ensure your app is ready for launch with this detailed guide on essential pre-publishing checks.
+- [Web Publishing](/deployment/web-publishing.md): Discover how to effortlessly publish your applications on the web with FlutterFlow. This guide covers everything from enabling web support to deploying your app and adding custom domains.
+
+## designer
+
+- [Craft your intent on the canvas.
+Bring the cost of design iteration to zero.](/designer.md): Discover FlutterFlow Designer—the fastest way to design apps. Explore its key features, understand how it works, and start designing your first app with ease.
+- [Collaboration](/designer/collaboration.md): Work on the same design together — in real time, with comments and shared access.
+- [Components](/designer/components.md): Learn how to create reusable UI components, add variants and toggles, and manage dynamic behavior using parameters and expressions in FlutterFlow Designer.
+- [Export](/designer/export.md): Export your FlutterFlow Designer designs as PNGs, agent-ready prompts, or directly into a FlutterFlow project.
+- [Import from FlutterFlow](/designer/import.md): Bring existing FlutterFlow screens into Designer to enhance layouts, explore new styles, and refine the user experience faster.
+- [Integrations](/designer/integrations.md): Connect FlutterFlow Designer with AI agents and developer tools to generate, edit, and update designs using natural language from your preferred environment.
+- [Iterate](/designer/iterate.md): Refine and improve your generated screens visually, with AI prompts, or by editing the global theme.
+- [Prompting](/designer/prompting.md): Generate your first app design from a prompt. Explore styles, attach reference images, and create a complete storyboard from a single description.
+- [Quickstart](/designer/quickstart.md): Get started with designing your first app quickly.
+- [Slides](/designer/slides.md): Turn a FlutterFlow Designer project into a presentation deck. Design 16:9 slides, present with presenter view, and import or export PowerPoint files.
+- [Workspace](/designer/workspace.md): Learn about FlutterFlow Designer's workspace that provide a complete design environment with specialized tools.
+
+## exporting
+
+- [Push to GitHub Repo](/exporting/push-to-github.md): Learn how to connect your FlutterFlow project to a GitHub repository and manage custom code.
+
+## flutterflow-cli
+
+- [FlutterFlow CLI](/flutterflow-cli.md): Learn how to download and manage your FlutterFlow projects locally using the FlutterFlow CLI.
+- [Build with AI Agents](/flutterflow-cli/build.md): Create and edit FlutterFlow projects from your terminal using your preferred AI coding agent.
+- [Exporting Projects](/flutterflow-cli/exporting.md): Learn how to download and manage your FlutterFlow projects locally using the FlutterFlow CLI.
+
+## flutterflow-ui
+
+- [App Builder](/flutterflow-ui/builder.md): Explore the App Builder in FlutterFlow, featuring a comprehensive interface with four main sections-Navigation Menu, Toolbar, Canvas, and Properties Panel.
+- [Canvas](/flutterflow-ui/canvas.md): Dive into the versatile Canvas in FlutterFlow, where you can effortlessly design and preview your app’s interface.
+- [Dashboard](/flutterflow-ui/dashboard.md): Explore the dashboard in FlutterFlow, a centralized location for managing projects and your account.
+- [My Teams](/flutterflow-ui/my-teams.md): On the My Teams page, you can manage billing for your team, edit projects simultaneously, and share code, design systems, APIs, and assets. This makes collaboration between team members much easier and helps keep everyone on the same page. Even if you don't have team members, you can still use this page to share resources between your own projects and keep your development process organized.
+- [Resource Hierarchy Overview](/flutterflow-ui/resource-hierarchy.md): Explore the Resource Hierarchy Overview to understand the correlation between traditional Flutter app components and their equivalents in FlutterFlow.
+- [Storyboard](/flutterflow-ui/storyboard.md): Master the Storyboard view in FlutterFlow to visualize your app’s design and user navigation. The Storyboard allows you to see screens and interactions, ensuring a seamless user experience.
+- [Toolbar](/flutterflow-ui/toolbar.md): Learn how to use the FlutterFlow Toolbar to access project management, version control, help, testing, and development tools.
+- [Widget Palette](/flutterflow-ui/widget-palette.md): Explore the Widget Palette in FlutterFlow to access a wide range of UI elements. This feature offers an intuitive interface for dragging and dropping Flutter widgets onto your canvas.
+
+## generated-code
+
+- [Generated Code: Components](/generated-code/component-model.md): Similar to a Page, when creating a component in FlutterFlow, it automatically generates two files: a Widget class and a Model class.
+- [DataTypeStruct class](/generated-code/custom-data-types.md): This guide uses example of the generated code of the EcommerceFlow demo app. To view the generated code directly, check out the Github repository.
+- [FFAppState](/generated-code/ff-app-state.md): This guide uses example of the generated code of the EcommerceFlow demo app. To view the generated code directly, check out the Github repository.
+- [FlutterFlow Model](/generated-code/flutterflow-model.md): The FlutterFlowModel class is an abstract class used in FlutterFlow to provide a unified and extensible structure for managing state and behavior of widgets (both pages and components). It encapsulates initialization, state management, and disposal logic, making it easier to handle the lifecycle of widgets and their models.
+- [Generated Code: Pages](/generated-code/page-model.md): When you create a new Page in FlutterFlow, it automatically generates two files: a Widget class and a Model class. So if the name of the page you created is called ProductListPage, FlutterFlow generation backend will automatically create ProductListPageWidget class and ProductListPageModel class.
+- [Directory Structure](/generated-code/project-structure.md): This guide uses example of the generated code of the EcommerceFlow demo app. To view the generated code directly, check out the Github repository.
+- [FlutterFlow State Management](/generated-code/state-management.md): Learn about the state management used in FlutterFlow's generated code.
+
+## integrations
+
+- [AdMob](/integrations/ads/admob.md): Learn how to add AdMob in your FlutterFlow app.
+- [AI Agents](/integrations/ai-agents.md): Learn how to add AI Agents for chat, image generation, video generation, text-to-speech, and speech-to-text in your FlutterFlow app.
+- [Authentication Methods Overview](/integrations/authentication-methods.md): Authentication enables users to create accounts and log into your app, establishing a secure,
+- [Overview](/integrations/authentication-types.md): Learn about integrating various authentication services like Firebase, Supabase, and Custom Authentication in FlutterFlow.
+- [Custom Authentication](/integrations/authentication/custom-authentication.md): Learn how to add custom authentication in your FlutterFlow app.
+- [Anonymous Login](/integrations/authentication/firebase/anonymous-login.md): Learn how to implement anonymous login in your FlutterFlow app.
+- [Apple Login](/integrations/authentication/firebase/apple.md): Learn how to add Apple login in your FlutterFlow app.
+- [Common Auth Actions](/integrations/authentication/firebase/auth-actions.md): Learn how to add Firebase Authentication actions in your FlutterFlow app.
+- [Email Login using Firebase](/integrations/authentication/firebase/email-login.md): Learn how to add Email Login in your FlutterFlow app.
+- [Facebook Login](/integrations/authentication/firebase/facebook.md): Learn how to add Facebook login in your FlutterFlow app.
+- [GitHub Login](/integrations/authentication/firebase/github.md): Learn how to add GitHub authentication in your FlutterFlow app.
+- [Google Login](/integrations/authentication/firebase/google-oauth-login.md): Learn how to add Google OAuth login in your FlutterFlow app.
+- [Enabling Firebase Auth in FlutterFlow](/integrations/authentication/firebase/initial-setup.md): Learn how to perform the initial setup for Firebase authentication in your FlutterFlow app.
+- [JWT Token Authentication](/integrations/authentication/firebase/jwt-auth.md): Learn how to implement JWT authentication in your FlutterFlow app.
+- [Phone Login](/integrations/authentication/firebase/phone.md): Learn how to add phone login in your FlutterFlow app.
+- [Authentication: Generated Code](/integrations/authentication/generated-code.md): Learn about the generated code behind enabling authentication in FlutterFlow.
+- [Apple Login](/integrations/authentication/supabase/apple.md): Learn how to integrate Apple Login of Supabase Auth into your FlutterFlow app.
+- [Authentication Actions](/integrations/authentication/supabase/auth-actions.md): Learn how to add Supabase Authentication actions in your FlutterFlow app.
+- [Email Authentication](/integrations/authentication/supabase/email.md): Learn how to integrate Email Login of Supabase Auth into your FlutterFlow app.
+- [Google Login](/integrations/authentication/supabase/google.md): Learn how to integrate Google Login of Supabase Auth into your FlutterFlow app.
+- [Initial Setup](/integrations/authentication/supabase/initial-setup.md): Learn how to perform the initial setup for Supabase Authentication in your FlutterFlow app.
+- [Tokens: Types and Lifespans](/integrations/authentication/tokens.md): Learn about the types and lifespans of tokens in custom authentication.
+- [Creating Collections](/integrations/database/cloud-firestore/creating-collections.md): Learn how to create collections in Firestore for your FlutterFlow app, including organizing documents within collections.
+- [Creating Subcollections](/integrations/database/cloud-firestore/creating-subcollections.md): Learn how to create subcollections in Firestore for your FlutterFlow app, including organizing documents within subcollections.
+- [Firestore Actions](/integrations/database/cloud-firestore/firestore-actions.md): Learn about Firestore actions in your FlutterFlow app, including how to perform various database operations.
+- [Firestore Content Manager](/integrations/database/cloud-firestore/firestore-content-manager.md): Learn how to use the Firestore Content Manager in your FlutterFlow app to manage Firestore data efficiently.
+- [Firestore Rules](/integrations/database/cloud-firestore/firestore-rules.md): Learn how to deploy Firestore rules in your FlutterFlow app to manage data access and security.
+- [Cloud Firestore](/integrations/database/cloud-firestore/getting-started.md): Learn how to get started with Cloud Firestore in your FlutterFlow app to manage your app's data.
+- [Refresh Database Request [Action]](/integrations/database/refresh-db-request.md): Learn how to use the Refresh DB Request action in your FlutterFlow app to refresh your database content.
+- [SQLite](/integrations/database/sqlite.md): Learn how to quickly get started with SQLite in your FlutterFlow app for local data storage.
+- [Supabase Database Actions](/integrations/database/supabase/database-actions.md): Learn about Supabase Database actions in your FlutterFlow app, including how to perform various database operations.
+- [Import from FF Designer](/integrations/designer/import-from-ff-designer.md): Learn how to export screens from FF Designer and import them into FlutterFlow.
+- [Firebase Storage Library](/integrations/firebase-storage/storage-library.md): The Firebase Storage Library provides access to the files in Cloud Storage through the Firebase SDK beyond what FlutterFlow's built-in support provides.
+- [Storage Rules](/integrations/firebase-storage/storage-rules.md): Learn how to deploy storage rules in your FlutterFlow app to manage and secure your Firebase storage.
+- [App Check](/integrations/firebase/app-check.md): Learn how to integrate Firebase App Check in your FlutterFlow app.
+- [Connect to Firebase](/integrations/firebase/connect-to-firebase.md): Learn how to integrate Firebase with your FlutterFlow app to add user authentication, cloud storage, real-time databases, and more.
+- [Firebase Crashlytics](/integrations/firebase/crashlytics.md): Learn how to integrate Firebase Crashlytics in your FlutterFlow app.
+- [Performance Monitoring](/integrations/firebase/performance-monitoring.md): Learn how to integrate Firebase Performance Monitoring in your FlutterFlow app.
+- [Remote Config](/integrations/firebase/remote-config.md): Learn how to integrate Firebase Remote Config in your FlutterFlow app.
+- [Gemini](/integrations/gemini.md): Learn how to get started with the Gemini action in your FlutterFlow app to generate text, process text-and-image inputs, and count tokens.
+- [Google Analytics](/integrations/google-analytics.md): Learn how to setup Google Analytics in FluterFlow
+- [Maps & Places APIs](/integrations/google-maps/generate-maps-keys.md): Learn how to generate and use Maps keys for Google Maps integration in your FlutterFlow app.
+- [Google Maps Widget](/integrations/google-maps/google-maps-widget.md): Learn how to add and configure the Google Maps widget in your FlutterFlow app.
+- [Move Map Center [Action]](/integrations/google-maps/move-map-center-action.md): Learn how to use the Move Map Center action in your FlutterFlow app to adjust the center of the Google Map.
+- [Place Picker Widget](/integrations/google-maps/place-picker-widget.md): Learn how to add and configure the Place Picker widget in your FlutterFlow app.
+- [Static Map Widget](/integrations/mapbox/staticmap-widget.md): Learn how to add and configure the StaticMap (Mapbox) widget in your FlutterFlow app.
+- [Launch Map](/integrations/maps/launch-map.md): Learn how to open Map app installed on your device from your FlutterFlow app.
+- [Mux Livestream](/integrations/mux.md): Learn how to get started with MuxBroadcast in your FlutterFlow app for live video broadcasting.
+- [Braintree](/integrations/payments/braintree.md): Learn how to integrate Braintree payments in your FlutterFlow app.
+- [RazorPay](/integrations/payments/razorpay.md): Learn how to integrate Razorpay in your FlutterFlow app.
+- [RevenueCat](/integrations/payments/revenuecat.md): Learn how to integrate RevenueCat payments in your FlutterFlow app.
+- [Stripe](/integrations/payments/stripe.md): Learn how to integrate Stripe in your FlutterFlow app.
+- [Algolia](/integrations/search/algolia-search.md): Learn how to implement algolia search functionality in your FlutterFlow app.
+- [Simple Search](/integrations/search/simple-search.md): Learn how to implement simple search functionality in your FlutterFlow app to search local data on a device.
+- [Supabase Setup](/integrations/supabase/setup.md): Learn how to set up Supabase in your FlutterFlow app for database and authentication functionalities.
+
+## marketplace
+
+- [Adding & Purchasing Items](/marketplace/adding-purchasing-item.md): Learn how to add and purchase FlutterFlow marketplace items.
+- [Creators Hub](/marketplace/creators-hub.md): This section is designed to provide you with all the necessary information to contribute effectively and responsibly to Marketplace.
+- [Copyright (DMCA) Process](/marketplace/creators-hub/copyright-dmca-process.md): Understand the copyright (DMCA) process on FlutterFlow Marketplace.
+- [Creator FAQs](/marketplace/creators-hub/creator-faqs.md): Learn about creator's FAQs in FlutterFlow Marketplace.
+- [Legal Guidelines for Creators](/marketplace/creators-hub/legal-guidelines-for-creators.md): Understand the legal guidlines for creating marketplace items.
+- [Navigating External Licenses](/marketplace/creators-hub/navigating-external-licenses.md): Understand the key concepts that will assist you in creating unique and compliant content for FlutterFlow Marketplace.
+- [FlutterFlow Marketplace Review Dispute Guidelines](/marketplace/creators-hub/review-dispute-guidelines.md): Learn about FlutterFlow Marketplace review dispute process and when reviews may be removed or modified.
+- [Item Submission Criteria](/marketplace/creators-hub/submission-criteria.md): Learn about marketplace item submission criteria.
+- [Submitting Item for Review](/marketplace/creators-hub/submit-item-for-review.md): Learn how to submit an item to the FlutterFlow Marketplace.
+- [Refund Policy](/marketplace/refund-policy.md): Learn more about the refund policy of FlutterFlow marketplace.
+- [Submitting Feedback for Items](/marketplace/submit-feedback.md): Learn more about the submitting feedback on FlutterFlow marketplace items.
+
+## misc
+
+- [Additional Resources To Get Help](/misc/additional-resources.md): FlutterFlow community forum
+- [Application & Data Ownership](/misc/application-data-ownership.md): Intellectual Property
+- [Customer Support Policy](/misc/customer-support-policy.md): We love connecting with our users and supporting you as you build your application! However, there are a few things that fall outside the scope of our support team. To avoid confusion, we've created this document to outline our Customer Support Policy.
+- [Enterprise](/misc/enterprise.md): Learn how to use FlutterFlow for Enterprise.
+- [Hire FlutterFlow Developer](/misc/hire-flutterflow-developer.md): Learn how to hire a FlutterFlow Developer.
+- [Security](/misc/security.md): At FlutterFlow, we consider security to be our utmost priority. We understand the importance of safeguarding your data and ensuring a secure environment for our users. Below, we provide an overview of our security measures to give you confidence in the safety of your information.
+- [Submit Bug Reports](/misc/submit-bug-report.md): Learn how to submit bug report.
+
+## quickstart
+
+- [Quickstart Guide](/quickstart.md): Build your first interactive FlutterFlow app by creating a layout, customizing its style, managing state, and testing the result.
+
+## resources
+
+- [Create & Test API Call](/resources/backend-logic/create-test-api.md): In this guide, you'll learn how to create and test API calls in FlutterFlow. Integrating API calls allows your app to interact with external services, bringing in real-time data and functionality that enhances your app's capabilities.
+- [API Calls](/resources/backend-logic/rest-api.md): Learn the basics of making API calls in your backend logic.
+- [SOAP APIs](/resources/backend-logic/soap-api.md): Learn how to use SOAP APIs in your backend logic with FlutterFlow.
+- [Streaming APIs](/resources/backend-logic/streaming-api.md): Learn how to use streaming APIs in your backend logic with FlutterFlow.
+- [Backend Query](/resources/backend-query.md): Learn about backend queries in your FlutterFlow app, including how to set up and manage queries.
+- [Algolia Search Query](/resources/backend-query/algolia-search-query.md): Learn how to perform an Algolia search query in your FlutterFlow app.
+- [API Call Query](/resources/backend-query/api-call-query.md): Learn how to perform an API call query in your FlutterFlow app.
+- [Document from Reference](/resources/backend-query/document-from-reference.md): Learn how to retrieve a document from a reference in your FlutterFlow app.
+- [Query Collection / Table](/resources/backend-query/query-collection.md): Learn how to query a collection in your FlutterFlow app.
+- [SQLite Query](/resources/backend-query/sqlite-query.md): Learn how to perform SQLite queries in your FlutterFlow app.
+- [Control Flow Concepts](/resources/control-flow-concepts.md): Understand and implement control flow in your FlutterFlow app to manage the execution of statements, instructions, and function calls under various conditions.
+- [Control Flow & Logic](/resources/control-flow-overview.md): Control flow in programming refers to the order in which individual statements, instructions, or
+- [Overview](/resources/data-representation.md): Explore the essentials of data representation in app development, focusing on the use of variables in FlutterFlow.
+- [App State](/resources/data-representation/app-state.md): Learn how to effectively utilize App State Variables in FlutterFlow to maintain and manage global application states across all pages and components.
+- [Constants](/resources/data-representation/constants.md): Explore the importance of using Constants in FlutterFlow to define unchanging values throughout your application.
+- [Custom Data Types](/resources/data-representation/custom-data-types.md): Learn how to create and utilize custom data types in FlutterFlow to handle complex data structures that predefined types can't cover.
+- [Data Types](/resources/data-representation/data-types.md): Dive into the diverse range of data types supported by FlutterFlow, from basic primitives like integers and strings to complex composite types and built-in functionalities tailored for app development.
+- [Enums](/resources/data-representation/enums.md): Learn how Enums can enhance the management of application states, product types, and process statuses by providing a robust method to handle predefined sets of values.
+- [Global Properties](/resources/data-representation/global-properties.md): Discover the role of Global Properties in FlutterFlow, which provide universal access across all pages of your app to facilitate common tasks and enhance functionality.
+- [Variable](/resources/data-representation/variables.md): Variables
+- [Forms Overview](/resources/forms.md): Learn how to work with Forms in FlutterFlow app.
+- [Checkbox](/resources/forms/checkbox.md): Learn how to add Checkbox, CheckboxGroup, and CheckboxListTile widget in your FlutterFlow app.
+- [ChoiceChips](/resources/forms/choice-chips.md): Learn how to add ChoiceChips in your FlutterFlow app.
+- [Dropdown](/resources/forms/dropdown.md): Learn how to add Dropdown widget in your FlutterFlow app.
+- [Form Triggers](/resources/forms/form-triggers.md): Learn how to use Form Triggers in FlutterFlow to create dynamic, interactive user experiences by responding to user input on widgets like dropdowns, sliders, toggles, and text fields.
+- [Form Validation](/resources/forms/form-validation.md): Learn how to add Form Validation widget in your FlutterFlow app.
+- [RadioButton](/resources/forms/radiobutton.md): Learn how to add RadioButton widget in your FlutterFlow app.
+- [Reset Form Field [Action]](/resources/forms/reset-form-field.md): Learn how to add Reset Form Field action in your FlutterFlow app.
+- [Set Form Field [Action]](/resources/forms/set-form-field.md): Learn how to add Set Form Field action in your FlutterFlow app.
+- [Switch Widgets](/resources/forms/switch.md): Learn how to add Switch and SwitchListTile widget in your FlutterFlow app.
+- [TextField](/resources/forms/textfield.md): Learn how to add TextField widget in your FlutterFlow app.
+- [Action Blocks](/resources/functions/action-blocks.md): Learn how to use Action Blocks in your FlutterFlow app to and create reusable actions.
+- [Actions](/resources/functions/action-flow-editor.md): Learn how to use the Action Flow Editor in your FlutterFlow app to manage and streamline your backend logic.
+- [Action Triggers](/resources/functions/action-triggers.md): Explore the action triggers available in FlutterFlow.
+- [Conditional Logic](/resources/functions/conditional-logic.md): Learn how to implement conditional logic in your FlutterFlow app to control the flow of actions or generate properties based on certain conditions.
+- [Loops](/resources/functions/loops.md): Learn how to implement loops in your FlutterFlow app to iterate over data and perform repeated actions.
+- [Utility Functions](/resources/functions/utility.md): Learn about the built-in utility functions available in FlutterFlow to enhance your app's UI logic.
+- [Utility Actions](/resources/functions/utility-actions.md): Learn about the built-in utility Actions available in FlutterFlow to enhance your app's UI logic.
+- [What is a Project?](/resources/projects.md): Understand what constitutes a project in FlutterFlow and how to manage them effectively.
+- [Collaborate on Projects](/resources/projects/collaboration.md): Learn how to collaborate effectively on projects in FlutterFlow, including best practices for teamwork and project management.
+- [Create, Find, and Organize Projects](/resources/projects/how-to-create-find-organize-projects.md): Learn how to create, find, and organize projects in FlutterFlow to streamline your app development process.
+- [Run and Test Projects](/resources/projects/how-to-run-test-projects.md): Learn how to run and test projects in FlutterFlow to ensure your app functions correctly and meets your requirements.
+- [Libraries](/resources/projects/libraries.md): Learn how to share and reuse entire FlutterFlow projects using libraries.
+- [Refactor Project](/resources/projects/refactor-project.md): Learn how to refactor your project in FlutterFlow.
+- [Pinning Projects to Stable FlutterFlow Versions](/resources/projects/settings/flutterflow-version-management.md): Learn how to manage the FlutterFlow version used for your project.
+- [General Settings](/resources/projects/settings/general-settings.md): Learn how to configure general settings for your FlutterFlow app.
+- [Project API](/resources/projects/settings/project-apis.md): The FlutterFlow Project APIs allow you to programmatically read, write, and validate YAML configuration files through REST endpoints. Using these APIs, you can automate project management tasks, integrate continuous integration and delivery (CI/CD) workflows, and apply bulk configuration updates without manual interactions with the FlutterFlow user interface.
+- [Project Setup](/resources/projects/settings/project-setup.md): Learn how to setup your project in FlutterFlow.
+- [Naming Variables & Functions](/resources/style-guide.md): Naming conventions for FlutterFlow, including guidelines for widgets, components, state variables, constants, and more.
+- [Periodic Action](/resources/time-based-logic/periodic-action.md): Learn how to use the Periodic Action in your FlutterFlow app to perform actions at regular intervals.
+- [Timer [Widget]](/resources/time-based-logic/timer-widget.md): Learn how to use the Timer Widget in your FlutterFlow app to manage timed events and actions.
+- [Wait [Action]](/resources/time-based-logic/wait-action.md): Learn how to use the Wait Action in your FlutterFlow app to pause actions for a specified duration.
+- [Components](/resources/ui/components.md): Components in FlutterFlow are reusable widgets. You design a widget once and can reuse it throughout your app
+- [Action Parameters (Callbacks)](/resources/ui/components/callbacks.md): Learn how to add action parameters or callbacks to custom components.
+- [Child Widget](/resources/ui/components/child-widget.md): Learn how to use Child Widget to add flexible, customizable content inside components.
+- [Component Actions & Lifecycle](/resources/ui/components/component-lifecycle.md): In FlutterFlow, understanding the component lifecycle is crucial for managing state and optimizing your
+- [Components](/resources/ui/components/creating-components.md): Components are reusable widgets you create to meet the specific needs of your app. This approach ensures consistency, saves
+- [Using Components](/resources/ui/components/using-components.md): Components in FlutterFlow can be added to the widget tree of a page or another component. They help streamline
+- [Widget Builder Parameters](/resources/ui/components/widget-builder.md): Sometimes, you want to create a component that offers some consistent design, while also allowing for customization. This is where passing widget builders as parameters becomes valuable.
+- [UI Building Blocks](/resources/ui/overview.md): When designing user interfaces in FlutterFlow, understanding the fundamental building
+- [Introduction to Pages](/resources/ui/pages.md): In FlutterFlow, a Page represents a single screen in your app. Under-the-hood pages use a Scaffold, a foundational widget from Flutter that provides a structured layout for a screen within your app. The Scaffold offers essential elements like the AppBar and Body, allowing you to easily build screens.
+- [Page Lifecycle](/resources/ui/pages/page-lifecycle.md): In FlutterFlow and Flutter, understanding the page lifecycle, or the stages a page goes
+- [Properties Panel](/resources/ui/pages/properties.md): In FlutterFlow, the Properties panel on the right helps you set up and manage your pages. It opens when you select the root element in the Widget Tree (on the left).
+- [Page Elements](/resources/ui/pages/scaffold.md): Page elements in FlutterFlow are the key elements that define the structure and functionality of each page in your app. Understanding these elements is crucial for building intuitive and effective user interfaces. From navigational elements like the AppBar and Drawer to interactive components like Floating Action Buttons (FABs), each element plays a specific role in shaping the user experience.
+- [Introduction to Widgets](/resources/ui/widgets.md): Introduction to Widgets
+- [Basic Widgets](/resources/ui/widgets/basic-widgets.md): FlutterFlow offers a range of basic widgets that are the building blocks of a Page or Component. In this guide, we'll cover five fundamental widgets: Container, Text, Icon, Button, and Image. Understanding these widgets is crucial for building any FlutterFlow app.
+- [AspectRatio](/resources/ui/widgets/built-in-widgets/aspect-ratio.md): Learn how to add an AspectRatio widget in your FlutterFlow app.
+- [Badge](/resources/ui/widgets/built-in-widgets/badge.md): The Badget widget indicates the number of items that need your attention. Typically it's a medium-sized dot that floats over other widgets such as IconButton.
+- [Barcode](/resources/ui/widgets/built-in-widgets/barcode.md): The Barcode widget is used to embed the information inside the series of lines and patterns. The data inside the barcode can be easily retried with a scanner machine, an app like Google Lens (Android), Apple Camera (iOS), or your own app created using FlutterFlow.
+- [Blur](/resources/ui/widgets/built-in-widgets/blur.md): Learn how to add Blur widget in your FlutterFlow app.
+- [Calendar](/resources/ui/widgets/built-in-widgets/calendar.md): Learn how to add Calendar widget in your FlutterFlow project.
+- [Card](/resources/ui/widgets/built-in-widgets/card.md): The Card widget is used to represent some related information in a box with rounded corners and a slight shadow for a 3D effect. For example, you can use a Card widget to show a Business card, restaurant information, movie details, etc.
+- [Carousel](/resources/ui/widgets/built-in-widgets/carousel.md): Learn how to add Carousel widget in your FlutterFlow project.
+- [Bar Chart](/resources/ui/widgets/built-in-widgets/chart/bar-chart.md): Learn how to add Bar Chart widget in your FlutterFlow project.
+- [Chart](/resources/ui/widgets/built-in-widgets/chart/chart.md): Learn how to add Chart widget in your FlutterFlow project.
+- [Line Chart](/resources/ui/widgets/built-in-widgets/chart/line-chart.md): Learn how to add Line Chart widget in your FlutterFlow project.
+- [Pie Chart](/resources/ui/widgets/built-in-widgets/chart/pie-chart.md): Learn how to add Pie Chart widget in your FlutterFlow project.
+- [CountController](/resources/ui/widgets/built-in-widgets/count-controller.md): Learn how to add CountController in your FlutterFlow app.
+- [CreditCardForm](/resources/ui/widgets/built-in-widgets/credit-card-form.md): Learn how to add CreditCardForm in your FlutterFlow app.
+- [DataTable (Paginated)](/resources/ui/widgets/built-in-widgets/datatable.md): Learn how to add DataTable widget in your FlutterFlow project.
+- [Dividers](/resources/ui/widgets/built-in-widgets/dividers.md): Add a thin horizontal or vertical line, with padding on either side. Customize the color, width
+- [Draggable + DragTarget](/resources/ui/widgets/built-in-widgets/draggable.md): The Draggable widget is used to make a widget that can be dragged and dropped to a different location within the app. It allows users to interact with the app by moving an item using touch gestures or a mouse. The DragTarget widget is used in conjunction with the Draggable widget to specify where a dragged item can be dropped. It creates a region that can accept the data carried by the Draggable widget.
+- [Expandable](/resources/ui/widgets/built-in-widgets/expandable.md): An Expandable widget is a user interface component used to show or hide content dynamically. It consists of a header that can be tapped to reveal or collapse additional content. This functionality is particularly useful in interfaces where space is at a premium, such as in mobile applications or complex forms, enabling users to access information on demand without overwhelming the screen with too much content all at once.
+- [FlippableCard](/resources/ui/widgets/built-in-widgets/flippable-card.md): Learn how to add Flippable Card widget in your FlutterFlow app.
+- [Markdown](/resources/ui/widgets/built-in-widgets/markdown.md): The Markdown widget is used to input and display text using Markdown syntax. It allows you to format text easily, without the complexity of a full-fledged WYSIWYG (What You See Is What You Get) editor or the need to write HTML code.
+- [MediaDisplay](/resources/ui/widgets/built-in-widgets/media-display.md): Learn how to add MediaDisplay widget in your FlutterFlow app.
+- [MouseRegion](/resources/ui/widgets/built-in-widgets/mouse-region.md): The MouseRegion widget lets you know whenever the mouse pointer enters or exits from a widget. You could use it to build a user experience (UX), such as animating buttons when a user hovers over them and revealing or hiding menu items when a user hovers over the menu icon.
+- [PinCode](/resources/ui/widgets/built-in-widgets/pincode.md): Learn how to add the PinCode widget in your FlutterFlow app.
+- [ProgressBar](/resources/ui/widgets/built-in-widgets/progressbar.md): Learn how to add ProgressBar widget in your FlutterFlow project.
+- [RatingBar](/resources/ui/widgets/built-in-widgets/ratingbar.md): Learn how to add RatingBar in your FlutterFlow app.
+- [Signature](/resources/ui/widgets/built-in-widgets/signature.md): Learn how to add Signature widget in your FlutterFlow app.
+- [Slider](/resources/ui/widgets/built-in-widgets/slider.md): Learn how to add Slider in your FlutterFlow app.
+- [Spacer](/resources/ui/widgets/built-in-widgets/spacer.md): The Spacer widget is used to insert a flexible empty
+- [StickyHeader](/resources/ui/widgets/built-in-widgets/sticky-header.md): The StickyHeader widget is a special type of widget that allows the top part of a scrollable list to "stick" or remain visible at the top of a viewport while the rest of the content can be scrolled. As users scroll down, the sticky header remains fixed at the top, providing consistent context or navigation cues.
+- [SwipeableStack](/resources/ui/widgets/built-in-widgets/swipeable-stack.md): Learn how to add SwipeableStack widget in your FlutterFlow project.
+- [Tooltip](/resources/ui/widgets/built-in-widgets/tooltip.md): The Tooltip widget provides additional information or visual cues of a widget in a small popup box. It appears when the user taps or long-presses the widget or hovers over it. It's typically used to provide an explanation about the function of a widget.
+- [Transform](/resources/ui/widgets/built-in-widgets/transform.md): The Transform widget applies graphic transformations such as skew (or tilt), rotate, scale, and translate (or slide) to its child widget. You could use this widget in combination with animations to build visually engaging apps.
+- [Button](/resources/ui/widgets/button.md): The Button widget is a fundamental component in user interface design, utilized extensively across web and mobile applications. It serves as a primary means of user interaction, allowing users to execute actions or commands within an application. Buttons are essential for:
+- [Composing Widgets](/resources/ui/widgets/composing-widgets.md): In FlutterFlow, creating a complex user interface often involves combining simpler widgets into more intricate layouts. While atomic widgets like Text, Button, Image, and Icon form the building blocks of your UI, you’ll use molecular widgets like Row, Column, and Stack to arrange these atomic widgets into a structured layout.
+- [Generate Dynamic Children](/resources/ui/widgets/composing-widgets/generate-dynamic-children.md): Widgets capable of handling multiple child widgets have an additional functionality called
+- [Lists & Grids](/resources/ui/widgets/composing-widgets/list-grid.md): In FlutterFlow, ListView and GridView are versatile widgets designed for displaying lists and grids
+- [Rows, Column & Stack](/resources/ui/widgets/composing-widgets/rows-column-stack.md): In Flutter, Rows, Columns, and Stacks are fundamental layout widgets that
+- [Container](/resources/ui/widgets/container.md): A Container is a highly versatile widget that functions much like a multi-purpose box in your app's
+- [Icons](/resources/ui/widgets/icons.md): Icons are integral elements in user interfaces, providing visual cues that enhance user interaction and aesthetic appeal. They communicate action, represent functionality, and improve navigation efficiency within applications.
+- [Image](/resources/ui/widgets/image.md): Images are a fundamental part of modern user interfaces, enhancing visual appeal and user
+- [Properties Panel](/resources/ui/widgets/properties.md): In FlutterFlow, the Properties Panel on the right helps you configure and manage your widgets. It opens when you click on a widget or component in the Widget Tree.
+- [Text](/resources/ui/widgets/text.md): Text is a fundamental element in any user interface, used to convey information and interact
+- [Common Widget Properties](/resources/ui/widgets/widget-commonalities.md): Learn how to control common widget properties in FlutterFlow
+
+## roadmap
+
+- [Roadmap](/roadmap.md): This roadmap guides you through the key layers of app development: the UI Layer, Logic Layer, and Data Layer. Understanding these layers is essential for creating apps that are visually appealing, functionally robust, and secure.
+
+## testing
+
+- [Automated Tests](/testing/automated-tests.md): Discover how to effectively utilize automated testing in FlutterFlow to ensure your app performs as intended.
+- [Development Environments](/testing/dev-environments.md): Learn how to create and leverage development environments in FlutterFlow.
+- [Local Run](/testing/local-run.md): Local Run downloads the code locally and gives you the option to use Flutter's Hot Reload to see your changes instantly on a device.
+- [Run your App](/testing/run-your-app.md): Discover the essentials of running and testing your FlutterFlow app with this comprehensive guide.
+- [Test Pilot](/testing/test-pilot.md): Learn how to create and run AI-powered QA tests for your FlutterFlow app using Test Pilot.
+
+## troubleshooting
+
+- [API Charset and Encoding Fix Guide](/troubleshooting/api/api-charset-and-encoding-fix-guide.md): When working with API calls in FlutterFlow, you might encounter issues where the response returns with strange characters, incorrect formatting, or unreadable content. These problems are often caused by improper charset or encoding settings either in the API request or the server response.
+- [Client-Server Errors During the API Call](/troubleshooting/api/client-server-errors-during-the-api-call.md): When calling an API in FlutterFlow, you may run into client-server errors. These typically come as status codes that indicate what went wrong, either on your end (the client) or on the server you're requesting data from.
+- [Securing Your API Keys in Private API Calls](/troubleshooting/api/securing-your-api-keys-in-private-api-calls.md): Ensuring the security of API keys is a critical aspect of building and maintaining a safe and reliable application. In the realm of private API calls, it's especially important to make sure your API keys are not exposed. This article aims to provide a best-practices guide on where to place your API keys to increase security in a FlutterFlow environment.​
+- [Custom Domain Connection Error](/troubleshooting/apple-store-deployment-issues/custom-domain-connection-error.md): If you encounter the error shown below after clicking Connect, follow these steps to resolve it:
+- [Custom Domain Connection Issues](/troubleshooting/apple-store-deployment-issues/custom-domain-connection-issues.md): This article provides solutions for common problems encountered when connecting custom domains.
+- [Web Publishing FAQs](/troubleshooting/apple-store-deployment-issues/web-publishing-faqs.md): This article provides answers to frequently asked questions related to web publishing.
+- [Codemagic Install Pods Failure](/troubleshooting/apple-store-deployment/codemagic-install-pods-failure.md): During Codemagic deployment, errors may occur at the Install Pods step due to iOS dependency conflicts, unstable code branches, or pod version mismatches. This guide outlines steps to identify and resolve these issues effectively.
+- [Codemagic Signing Certificate Limit](/troubleshooting/apple-store-deployment/codemagic-signing-certificate-limit.md): During iOS deployment, Codemagic attempts to create distribution certificates in your Apple Developer Account. If the maximum number of certificates has already been reached, the build will fail with a certificate creation error.
+- [Download dSYM File from App Store Connect](/troubleshooting/apple-store-deployment/download-dsym-file-from-app-store-connect.md): To download the dSYM file from the App Store Connect Developer Console, follow these steps.
+- [ImageNotification Development Team Error](/troubleshooting/apple-store-deployment/imagenotification-development-team-error.md): This error occurs when the ImageNotification entitlement is missing in your Apple Developer account. To resolve it, create a new Identifier for ImageNotification in your Apple Developer account.
+- [iOS Deployment Authentication Error](/troubleshooting/apple-store-deployment/ios-deployment-authentication-error.md): During iOS deployment using Codemagic, an authentication credentials error can occur due to misconfigured or expired API tokens for App Store deployment.
+- [App Starts from HomePage in Run Mode](/troubleshooting/authentication/app-starts-from-homepage-in-run-mode.md): If your app always redirects to the HomePage in Run Mode, even after a previous login, it's likely caused by retained authentication state or cached session data in your browser.
+- [Check Firebase Login Method](/troubleshooting/authentication/check-firebase-login-method.md): Understanding which authentication method a user has used can be useful for several reasons. For example, it can be leveraged for analytics, user support, and to customize the user's experience based on their login method. This method, however, is specific to Firebase Authentication.​
+- [Deleting Firebase Users and Related Data](/troubleshooting/authentication/deleting-firebase-users-and-related-data.md): Understanding the Delete Action
+- [Fix Google Sign-In Issues](/troubleshooting/authentication/fix-google-sign-in-issues.md): If Google Sign-In isn’t working after exporting your FlutterFlow app, follow these steps based on how you’re deploying your app.
+- [Permission Denied: Code 403](/troubleshooting/authentication/permission-denied-code-403.md): This error typically occurs when your application or service account does not have the required permissions to access a resource in Google Cloud or Firebase.
+- [SafetyNet Phone Sign-In Issue on Android Devices](/troubleshooting/authentication/safetynet-phone-sign-in-issue-on-android-devices.md): If you're experiencing issues with Firebase Phone Authentication on Android devices, especially when using emulators or testing in release mode, this guide will help you identify and resolve common problems.
+- [Sign in With Apple (for Web)](/troubleshooting/authentication/sign-in-with-apple-for-web.md): To enable Sign in with Apple on the web, you must complete additional steps in both your Apple Developer Account and Firebase Console. These steps allow Apple to identify your website and authorize the use of Apple login on web platforms.
+- [Troubleshooting Custom Authentication](/troubleshooting/authentication/troubleshooting-authentication.md): - Ensure you have a custom server with login and sign-up endpoints that return a JWT token upon success.
+- [ListView Gray Box and Red Screen Errors](/troubleshooting/backend/listview-gray-box-and-red-screen-errors.md): When loading a list of items from the database, you might encounter a gray box or red error screen. This article explains the possible causes and how to resolve them.
+- [Fix ListView Only Returning One Item](/troubleshooting/backend/listview-returning-only-one-item.md): If your ListView is only showing one item, this guide will walk you through the common reasons and how to resolve the issue.
+- [Resolving Firebase Configuration Issues](/troubleshooting/backend/resolving-firebase-configuration-issues.md): If you're experiencing backend errors, failed schema validation, or data sync issues, this guide will help you verify and fix your Firebase setup in FlutterFlow.
+- [Update Document Action Fails During Backend Call](/troubleshooting/backend/update-document-action-fails-during-backend-call.md): When performing the Update Document action, you may encounter a situation where the loading indicator appears but then stops without completing the action. This indicates that the update was unsuccessful. If the update succeeds, the next steps in your action flow, such as displaying an alert dialog, should execute automatically.
+- [Fix Cloud Functions Deployment](/troubleshooting/cloud-functions/fix-cloud-functions-deployment.md): - You must have a Firebase project connected to FlutterFlow.
+- [Custom Actions Errors](/troubleshooting/custom-actions/custom-actions-errors.md): - A basic understanding of how custom actions work.
+- [Testing Custom Actions using Debug Console](/troubleshooting/custom-actions/testing-custom-actions-using-debug-console.md): Sometimes, the compiler does not show any errors in the custom action, but the custom action still won't work as expected. This might be due to the code logic or the implementation. In order to test the implementation and the flow, you can use the debug console to test the custom action in different scenarios.
+- [Codemagic Deployment Error Identification](/troubleshooting/deployment/codemagic-deployment-error-identification.md): Follow the steps below to identify your codemagic error:
+- [CodeMagic Deployment Tips](/troubleshooting/deployment/codemagic-deployment-tips.md): Here are some tips to avoid Deployment issues:
+- [Deployment Issues with Stripe Integration](/troubleshooting/deployment/deployment-issues-with-stripe-integration.md): Integrating Stripe in your FlutterFlow project can help you accept payments efficiently. However, some common deployment issues may arise. This article outlines key steps and best practices to ensure a smooth Stripe integration and deployment experience.
+- [Fixing Razorpay Deployment](/troubleshooting/deployment/fixing-razorpay-deployment.md): Razorpay is a major payment processor in India. Integrating Razorpay can allow users to make payments using their app. This article outlines some common scenarios and troubleshooting instructions for Razorpay deployment issues.
+- [Fixing Stripe Deployment & Payment Errors](/troubleshooting/deployment/fixing-stripe-deployment-and-payment-errors.md): Integrating Stripe for payment processing in FlutterFlow can significantly simplify monetization. However, developers may encounter issues during deployment or while managing transactions. This guide outlines common deployment and payment issues—and how to fix them—to help ensure a seamless Stripe integration experience in FlutterFlow apps.
+- [Resolve Errors in Downloaded Code](/troubleshooting/deployment/resolve-errors-in-downloaded-code.md): When you download your project from FlutterFlow and run it locally in your IDE, you may encounter errors due to Flutter version mismatches. This guide outlines how to resolve these issues by ensuring your local Flutter version matches the version supported by FlutterFlow.
+- [Run Mode: Build Failure](/troubleshooting/deployment/run-mode-build-failure.md): Encountering a "Run mode: Build failed" error can be frustrating when you're eager to see your app in action. This error typically signifies a project issue that prevents a successful build. Addressing these errors promptly ensures your app's functionality and performance.
+- [Enterprise](/troubleshooting/enterprise.md): A guide to troubleshoot FlutterFlow enterprise projects.
+- [Client Access to Firestore Expired](/troubleshooting/firebase/client-access-to-firestore-expired.md): You may receive an email from Firebase with the subject:
+- [Configuring CORS for Firebase Storage](/troubleshooting/firebase/configuring-cors-for-firebase-storage.md): When you deploy your web app to a custom domain, the domain and the Firebase Storage bucket are hosted on different servers. This means that the browser will block requests to the Firebase Storage bucket from your web app, because the origins (the domains and ports) of the two servers are different.
+- [Content Manager Firestore Error](/troubleshooting/firebase/content-manager-firestore-error.md): You may see the following error message when accessing the FlutterFlow Content Management System (CMS):
+- [Firebase Android Config File Missing](/troubleshooting/firebase/firebase-android-config-file-missing.md): You may see the following warning in FlutterFlow, as shown in the image below:
+- [Firebase Storage Limits in FlutterFlow](/troubleshooting/firebase/firebase-storage-limits-in-flutterflow.md): Managing Firebase Storage properly is essential for controlling your app's file storage and associated costs in FlutterFlow. This article summarizes the current limits and best practices following Firebase’s September 2024 changes.
+- [Get the Sum of Firebase Document or API Values](/troubleshooting/firebase/get-the-sum-of-firebase-document-or-api-values.md): Sometimes you need to display a total, such as a subtotal or count based on data fetched from Firebase or an API. This guide walks you through the steps to calculate and display that sum in FlutterFlow.
+- [Missing Firebase Storage in FlutterFlow Settings](/troubleshooting/firebase/missing-firebase-storage-in-flutterflow-settings.md): When setting up Firebase Storage in your FlutterFlow project, you may notice that the Firebase Storage option is missing from the Firebase Settings tab.
+- [Resolving Firestore Index Deployment Issues](/troubleshooting/firebase/resolving-firestore-index-deployment-issues.md): If your Firestore indexes are not being deployed as expected, follow these troubleshooting steps to resolve the issue and ensure your app performs correctly.
+- [Unable to Validate Firestore Schema](/troubleshooting/firebase/unable-to-validate-firestore-schema.md): When trying to validate your Firestore Schema, you may encounter the error as seen in the image below:
+- [Updating Firestore Security Rules](/troubleshooting/firebase/updating-firestore-security-rules.md): Most backend issues are generated by the misconfiguration of the Firestore Security Rules. These backend issues may include Grey Screen errors, Infinite Loading screen, Firestore record creating error, Data mismatch errors, etc.
+- [Initialize GitHub Repository](/troubleshooting/github/initialize-github-repository.md): When pushing code to GitHub, the following error may occur:
+- [Repository Head Deployment Failure](/troubleshooting/github/repository-head-deployment-failure.md): This error may occur when deploying your FlutterFlow app to GitHub using Codemagic. The message Failed to set the repository head indicates a problem with repository access, configuration, or connectivity.
+- [AdMob Ads Not Displaying in Google Play Testing](/troubleshooting/google-play-store-deployment/admob-ads-not-displaying-in-google-play-testing.md): If your AdMob ads are not showing during Open Testing via the Google Play Store, the issue is often tied to AdMob configuration, app permissions, or settings in the Google Play Console. Follow the steps below to ensure ads display correctly.
+- [Declare Advertising ID for Android 13+ in Play Console](/troubleshooting/google-play-store-deployment/declare-advertising-id-android-13-play-console.md): If your app targets Android 13 (API 33) or higher, Google Play requires that you declare whether your app uses the Advertising ID. Failing to do so will result in an upload error when submitting artifacts to the Play Console.
+- [Error Running Pod Install](/troubleshooting/google-play-store-deployment/error-running-pod-install.md): This article addresses the common Error Running Pod Install issue, which typically occurs due to misconfiguration of Flutter or CocoaPods on macOS devices.
+- [Fix Flutter Launcher Icons Package Error](/troubleshooting/google-play-store-deployment/fix-launcher-icons-package-error.md): This article describes how to resolve the flutter_launcher_icons package error that may occur during app build or deployment.
+- [Google Play Draft Release Error](/troubleshooting/google-play-store-deployment/google-play-draft-release-error.md): When uploading an app to Google Play, you may encounter the following error:
+- [Google Play Failed to Upload Artefacts](/troubleshooting/google-play-store-deployment/google-play-failed-to-upload-artefacts-package.md): - Ensure your app’s Package Name in FlutterFlow matches the package name in Google Play Console.
+- [Google Play Store Debug Signing Error](/troubleshooting/google-play-store-deployment/google-play-store-debug-signing-error.md): When uploading your Android App Bundle (AAB) or APK to Google Play, you might encounter this error:
+- [Launcher Icon Missing After Upload](/troubleshooting/google-play-store-deployment/launcher-icon-missing-after-upload.md): Custom app launcher icons may fail to appear after being added in the project settings due to missing icon generation steps.
+- [Migrate to Play Integrity API From SafetyNet Attestation](/troubleshooting/google-play-store-deployment/migrate-to-play-integrity-api-from-safetynet-attestation.md): Google is deprecating the SafetyNet Attestation API, replacing it with the Play Integrity API. This article explains the migration steps needed to maintain app security and compliance with Google Play requirements.
+- [Signed in Debug Mode Error](/troubleshooting/google-play-store-deployment/signed-in-debug-mode-error.md): - Generated an APK or Android App Bundle via FlutterFlow → Build → Android.
+- [Version Solving Failed Due to Incompatible Package](/troubleshooting/google-play-store-deployment/version-solving-failed-due-to-incompatible-package.md): A version solving failed error may occur when running flutter pub get if package versions in the project conflict with FlutterFlow's supported Flutter version.
+- [FCM Token Generation Troubleshooting](/troubleshooting/notifications/fcm-token-generation-troubleshooting.md): When a user does not have an fcmtoken sub-collection in their Firestore document, push notifications cannot be delivered to their device. This guide outlines the possible causes and solutions for resolving missing fcmtoken sub-collections in FlutterFlow apps.
+- [Firebase Push Notification Troubleshooting](/troubleshooting/notifications/firebase-push-notification-troubleshooting.md): Push notifications are essential for keeping users informed through timely alerts and updates. However, several common configuration issues can prevent push notifications from working as expected in FlutterFlow projects. This guide outlines potential causes and solutions.
+- [Firebase Push Notifications on Web](/troubleshooting/notifications/firebase-push-notifications-on-web.md): FlutterFlow currently does not support sending Firebase push notifications on web apps natively. However, Firebase itself supports this capability. This guide outlines alternative approaches to enable Firebase push notifications on web projects built with FlutterFlow.
+- [Fix Insufficient Permissions for Push Notifications](/troubleshooting/notifications/fix-insufficient-permissions-push-notifications.md): If you encounter an "Insufficient Permissions" error when deploying push notifications from FlutterFlow to Firebase, it usually means the firebase@flutterflow.io service account does not have the necessary permissions in your Firebase project. This guide will walk you through how to resolve this issue.
+- [Fix Push Notifications Sent to Zero Devices](/troubleshooting/notifications/fix-push-notifications-sent-to-zero-devices.md): Push notifications allow apps to send updates, alerts, and messages directly to users. In some cases, after triggering a push notification, FlutterFlow displays the following message:
+- [Black Screen During Preview](/troubleshooting/test-mode/black-screen-during-run-mode.md): If your app screen appears blank during Run Mode, follow these steps to resolve the issue:
+- [Firestore Permission Error in Run Mode](/troubleshooting/test-mode/firestore-permission-error-run-mode.md): When previewing your app in Run Mode, you may encounter the following error message:
+- [Gray Screen in Run Mode](/troubleshooting/test-mode/gray-screen-run-mode.md): Seeing a gray screen in Run Mode usually points to a configuration issue in your Firebase or project settings. Follow these steps to diagnose and resolve the issue.
+- [Loading Spinner in Run Mode](/troubleshooting/test-mode/loading-spinner-run-mode.md): A persistent loading spinner in FlutterFlow's Run Mode usually indicates an issue with your Firestore rules configuration. Updating your rules can resolve this issue.
+- [Local Build ProviderInstaller Error](/troubleshooting/test-mode/local-build-providerinstaller-error.md): This error commonly occurs when building Flutter apps on Android emulators. It is related to the ProviderInstaller service and can typically be resolved through basic cleanup and Flutter version upgrades.
+- [Slow Loading in Test Mode](/troubleshooting/test-mode/slow-test-mode-load.md): If Test Mode takes several minutes to load or fails entirely, the issue may stem from your browser, network, or project configuration. This guide walks you through the most common causes and how to resolve them.
+- [Test API Calls](/troubleshooting/test-mode/test-api-calls.md): Verifying an API response before integrating it into your app helps prevent runtime issues and ensures your data is structured correctly. This guide walks you through testing an API directly within FlutterFlow.
+- [Fix Google Translate Errors](/troubleshooting/translations/fix-google-translate-errors.md): FlutterFlow integrates with Google Translate to help localize your app automatically. This guide outlines how to identify and resolve common issues with the translation integration.
+- [Custom Widget Errors](/troubleshooting/widget/custom-widget-errors.md): This article demonstrates common errors and issues that may occur when creating a Custom Widget in FlutterFlow, along with steps to resolve them. In this example, an Animated Text Widget is used.
+- [Emoji Size on iOS Devices](/troubleshooting/widget/emoji-size-on-ios-devices.md): On iOS devices, emojis can appear oversized when rendered inside text widgets, disrupting the intended design and layout. This guide explains how to maintain consistent emoji sizing across all devices using container constraints and auto-sizing configuration.
+- [Infinite Scroll Pagination in ListView](/troubleshooting/widget/infinite-scroll-pagination-in-listview.md): If a ListView with Infinite Scroll enabled loads all items at once instead of paginating, the issue is typically related to layout configuration. This guide outlines how to correctly structure the widget for proper pagination behavior.
+- [Rive Animation Loading Errors](/troubleshooting/widget/rive-animation-loading-errors.md): Rive animations may fail to render when the source file is incorrectly linked. This guide outlines how to provide a valid .riv file URL for successful animation loading.
+- [Scroll To Action on Page Load](/troubleshooting/widget/scroll-to-action-on-page-load.md): When a Scroll To Action fails to trigger during a page load, it is often because the scrollable widget has not fully rendered at the time the action executes. This guide outlines how to ensure the scroll action works reliably during page load.
+- [Store Custom Widget Output Using App State](/troubleshooting/widget/store-custom-widget-output-using-app-state.md): To use the output from a custom widget elsewhere in your project, you can store its value in an app state variable. FlutterFlow does not directly support retrieving data from custom widgets, so this method provides an effective workaround.

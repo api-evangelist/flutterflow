@@ -1,0 +1,31 @@
+generated: '2026-07-19'
+method: searched
+notes: >-
+  Probed the /.well-known/ discovery surface on the API, website, and docs hosts.
+  No usable well-known document was found: the API host returns 405 (method not
+  allowed) for these paths, the website returns 404, and the docs host returns the
+  Docusaurus SPA HTML (200) for /.well-known/security.txt rather than a real RFC
+  9116 file. No raw documents saved. Absence recorded as valid data.
+hosts:
+- host: https://api.flutterflow.io
+  documents:
+  - path: /.well-known/security.txt
+    status: 405
+  - path: /.well-known/openid-configuration
+    status: 405
+  - path: /.well-known/oauth-authorization-server
+    status: 405
+  - path: /.well-known/api-catalog
+    status: 405
+- host: https://www.flutterflow.io
+  documents:
+  - path: /.well-known/security.txt
+    status: 404
+  - path: /.well-known/ai-plugin.json
+    status: 404
+- host: https://docs.flutterflow.io
+  documents:
+  - path: /.well-known/security.txt
+    status: 200
+    file: null
+    note: Returns Docusaurus SPA HTML, not a real security.txt.

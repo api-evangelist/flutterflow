@@ -1,0 +1,25 @@
+generated: '2026-07-19'
+method: searched
+source: https://docs.flutterflow.io/miscellaneous/security
+compliance_page: https://trust.flutterflow.io/
+standards:
+- id: soc2-type1
+  conforms: true
+  evidence: >-
+    FlutterFlow is SOC 2 Type 1 certified (documented on the security page and
+    trust.flutterflow.io trust center).
+- id: bearer-token-auth
+  conforms: true
+  evidence: All Project API endpoints require an Authorization Bearer FlutterFlow API token.
+- id: gcp-hosted
+  conforms: true
+  evidence: Platform follows Google Cloud Platform (GCP) security best practices.
+- id: oauth2
+  conforms: false
+  evidence: No OAuth 2.0 flow documented; API uses static Bearer tokens.
+- id: rfc9457-problem-details
+  conforms: false
+  evidence: Errors are plain HTTP status codes, not application/problem+json.
+- id: openapi
+  conforms: false
+  evidence: No public OpenAPI specification is published for the Project APIs.

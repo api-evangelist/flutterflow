@@ -1,0 +1,21 @@
+generated: '2026-07-19'
+method: searched
+source: https://docs.flutterflow.io/resources/projects/settings/project-apis/
+versioning:
+  scheme: uri-path
+  current: v2
+  staging: v2-staging
+  docs: https://docs.flutterflow.io/resources/projects/settings/project-apis/
+deprecation:
+  policy_url: null
+  sunset_header: false
+  note: No formal Sunset/Deprecation (RFC 8594) header policy documented for the Project APIs.
+sla:
+  url: null
+  uptime_target: null
+status_page: https://status.flutterflow.io/
+status_page_host: UptimeRobot
+licensing_note: >-
+  The flutterflow_cli client was relicensed to Business Source License 1.1 in
+  v0.0.33 (converts to Apache 2.0 on 2055-04-22).
+deprecated_operations: []
