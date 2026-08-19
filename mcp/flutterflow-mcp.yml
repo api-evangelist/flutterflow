@@ -5,11 +5,9 @@ source: https://docs.flutterflow.io/ff-concepts/advanced/flutterflow-cli/flutter
 official: true
 server:
   name: flutterflow-ai
-  description: >-
-    Official FlutterFlow AI MCP server. Exposes FlutterFlow's Project APIs to an
-    MCP-compatible agent (Claude Code, Gemini CLI, Codex) so it can read and modify
-    a FlutterFlow project using real project context — plan changes, apply them,
-    and report back into the visual builder.
+  description: Official FlutterFlow AI MCP server. Exposes FlutterFlow's Project APIs to an MCP-compatible
+    agent (Claude Code, Gemini CLI, Codex) so it can read and modify a FlutterFlow project using real
+    project context — plan changes, apply them, and report back into the visual builder.
   transport: stdio
   package: flutterflow_cli
   init: flutterflow ai init
@@ -25,9 +23,8 @@ authentication:
   token: FlutterFlow API key
   notes: A FlutterFlow API key is required during `flutterflow ai init`; input is masked.
 capabilities:
-- Live Sessions — apply changes to a running FlutterFlow app and display updates on
-  the connected device (update screens, fix issues, inspect logs, trigger hot
-  reload/restart, capture screenshots).
+- Live Sessions — apply changes to a running FlutterFlow app and display updates on the connected device
+  (update screens, fix issues, inspect logs, trigger hot reload/restart, capture screenshots).
 tools:
 - name: run
   group: build
@@ -74,3 +71,9 @@ tools:
 - name: doctor
   group: maintenance
   description: Diagnose the workspace and toolchain.
+deployment:
+  mode: local-stdio
+  verified: searched
+  tools: 15
+  checked: '2026-08-12'
+  source: catalog MCP census
